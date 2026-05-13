@@ -1,0 +1,7 @@
+# Core testing and formatting
+pytest>=8.0.0
+pytest-cov>=4.1.0
+black>=24.0.0
+flake8>=7.0.0
+
+# Add other AI packages as needed below (e.g., openai, langchain, torch, transformers)

@@ -1,0 +1,89 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Job Profile",
+  "description": "Structured AI-ready format for a job description.",
+  "type": "object",
+  "properties": {
+    "job_title": { "type": "string" },
+    "company_info": {
+      "type": "object",
+      "properties": {
+        "name": { "type": "string" },
+        "industry": { "type": "string" },
+        "description": { "type": "string" }
+      },
+      "required": ["name"]
+    },
+    "location": {
+      "type": "object",
+      "properties": {
+        "city": { "type": "string" },
+        "state": { "type": "string" },
+        "country": { "type": "string" },
+        "is_remote": { "type": "boolean" },
+        "remote_type": { 
+          "type": "string",
+          "enum": ["Fully Remote", "Hybrid", "On-site"]
+        }
+      },
+      "required": ["is_remote"]
+    },
+    "employment_type": {
+      "type": "string",
+      "enum": ["Full-time", "Part-time", "Contract", "Internship", "Freelance"]
+    },
+    "experience_required": {
+      "type": "object",
+      "properties": {
+        "min_years": { "type": "number" },
+        "max_years": { "type": ["number", "null"] }
+      },
+      "required": ["min_years"]
+    },
+    "responsibilities": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "mandatory_skills": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": { "type": "string" },
+          "level": { "type": "string" },
+          "years_of_experience": { "type": "number" }
+        },
+        "required": ["name"]
+      }
+    },
+    "preferred_skills": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": { "type": "string" },
+          "level": { "type": "string" }
+        },
+        "required": ["name"]
+      }
+    },
+    "education_requirements": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "salary_range": {
+      "type": "object",
+      "properties": {
+        "min": { "type": "number" },
+        "max": { "type": "number" },
+        "currency": { "type": "string", "default": "USD" },
+        "period": { "type": "string", "enum": ["Hourly", "Monthly", "Yearly"] }
+      }
+    },
+    "benefits": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  },
+  "required": ["job_title", "company_info", "experience_required", "mandatory_skills"]
+}

@@ -1,0 +1,114 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Resume Profile",
+  "description": "Structured AI-ready format for a parsed candidate resume.",
+  "type": "object",
+  "properties": {
+    "personal_info": {
+      "type": "object",
+      "properties": {
+        "name": { "type": "string" },
+        "email": { "type": "string", "format": "email" },
+        "phone": { "type": "string" },
+        "linkedin": { "type": "string", "format": "uri" },
+        "github": { "type": "string", "format": "uri" },
+        "location": { "type": "string" },
+        "summary": { "type": "string" }
+      },
+      "required": ["name", "email"]
+    },
+    "experience": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "company_name": { "type": "string" },
+          "designation": { "type": "string" },
+          "start_date": { "type": "string", "format": "date" },
+          "end_date": { "type": ["string", "null"], "format": "date" },
+          "is_current": { "type": "boolean" },
+          "location": { "type": "string" },
+          "responsibilities": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "achievements": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "skills_used": {
+            "type": "array",
+            "items": { "type": "string" }
+          }
+        },
+        "required": ["company_name", "designation", "start_date"]
+      }
+    },
+    "education": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "institution": { "type": "string" },
+          "degree": { "type": "string" },
+          "field_of_study": { "type": "string" },
+          "start_date": { "type": "string", "format": "date" },
+          "end_date": { "type": "string", "format": "date" },
+          "score": { "type": "string" }
+        },
+        "required": ["institution", "degree"]
+      }
+    },
+    "skills": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": { "type": "string" },
+          "level": { 
+            "type": "string",
+            "enum": ["Beginner", "Intermediate", "Advanced", "Expert"]
+          },
+          "years_of_experience": { "type": "number" },
+          "category": {
+            "type": "string",
+            "enum": ["Hard Skill", "Soft Skill", "Tool", "Framework", "Domain"]
+          }
+        },
+        "required": ["name"]
+      }
+    },
+    "certifications": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": { "type": "string" },
+          "issuer": { "type": "string" },
+          "issue_date": { "type": "string", "format": "date" },
+          "expiration_date": { "type": ["string", "null"], "format": "date" },
+          "credential_id": { "type": "string" }
+        },
+        "required": ["name", "issuer"]
+      }
+    },
+    "projects": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": { "type": "string" },
+          "description": { "type": "string" },
+          "role": { "type": "string" },
+          "technologies": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "link": { "type": "string", "format": "uri" }
+        },
+        "required": ["name"]
+      }
+    }
+  },
+  "required": ["personal_info", "experience", "education", "skills"]
+}

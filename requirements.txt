@@ -5,3 +5,5 @@ black>=24.0.0
 flake8>=7.0.0
 
 # Add other AI packages as needed below (e.g., openai, langchain, torch, transformers)
+pdfplumber>=0.10.0
+python-docx>=1.0.0

@@ -1,0 +1,16 @@
+Embedded Systems Consultant
+
+Job Overview
+
+Provides expert solutions for embedded hardware and firmware development projects.
+Responsibilities
+• Develop embedded system architecture
+• Write and optimize firmware code
+• Debug hardware-software integration issues
+• Improve system performance and reliability
+• Guide IoT and device development projects
+Skills Required
+• Embedded C/C++ programming
+• Microcontroller expertise (ARM, AVR, ESP32)
+• RTOS knowledge
+• Hardware debugging tools

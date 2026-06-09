@@ -1,0 +1,17 @@
+DRDO Scientist (Electronics)
+
+Job Overview
+Works in the Defence Research and Development Organisation (DRDO) on advanced
+defense electronics systems.
+
+Responsibilities
+• Develop defense-grade electronic systems
+• Work on radar, missile guidance, and communication systems
+• Design secure embedded and RF systems
+• Conduct field testing and validation
+• Collaborate with defense projects and missions
+Skills Required
+• Advanced electronics knowledge
+• Signal processing and RF systems
+• Embedded systems and control systems
+• Security and defense technology understanding

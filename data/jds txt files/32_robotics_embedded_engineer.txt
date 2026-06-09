@@ -1,0 +1,15 @@
+Robotics Embedded Engineer
+
+Job Overview
+Builds embedded systems for robots and automation machines.
+Responsibilities
+• Design control systems for robots
+• Integrate sensors and actuators
+• Program robotic movement logic
+• Work with motor controllers
+• Support AI/vision integration
+Skills Required
+• Embedded systems + robotics basics
+• Control systems
+• Microcontrollers & sensors
+• C/C++ programming

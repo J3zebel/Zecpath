@@ -1,0 +1,16 @@
+Embedded AI Engineer
+
+Job Overview
+Combines artificial intelligence with embedded systems to run AI models on edge devices
+like cameras, robots, and smart sensors.
+Responsibilities
+• Deploy AI models on microcontrollers and edge devices
+• Optimize machine learning models for low power systems
+• Work on computer vision and speech recognition systems
+• Integrate AI with embedded hardware
+• Improve real-time inference performance
+Skills Required
+• Machine learning + deep learning
+• Embedded C/C++
+• TensorFlow Lite / PyTorch Mobile
+• Edge AI frameworks

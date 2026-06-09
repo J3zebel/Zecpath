@@ -1,0 +1,16 @@
+Signal Processing Engineer
+
+Job Overview
+Works on analyzing and processing signals to improve communication quality and data
+transmission.
+Responsibilities
+• Design algorithms for signal filtering and enhancement
+• Process audio, video, and communication signals
+• Reduce noise and improve signal clarity
+• Develop DSP (Digital Signal Processing) systems
+• Work on real-time signal applications
+Skills Required
+• Digital Signal Processing (DSP)
+• Fourier Transform, filters, wavelets
+• MATLAB / Python
+• Mathematics (linear algebra, probability)

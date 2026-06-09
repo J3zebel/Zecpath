@@ -1,0 +1,16 @@
+Failure Analysis Engineer
+
+Job Overview
+Investigates electronic product failures to identify root causes and prevent future issues.
+Responsibilities
+• Analyze failed electronic components
+• Perform root cause analysis (RCA)
+• Use microscopy and imaging tools for defect inspection
+
+• Suggest design or process improvements
+• Prepare failure analysis reports
+Skills Required
+• Semiconductor/electronics failure mechanisms
+• Diagnostic tools usage
+• Analytical thinking
+• Materials and circuit understanding

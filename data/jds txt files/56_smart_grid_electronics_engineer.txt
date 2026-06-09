@@ -1,0 +1,15 @@
+Smart Grid Electronics Engineer
+
+Job Overview
+Designs intelligent power distribution systems for modern electricity grids.
+Responsibilities
+• Develop smart grid control systems
+• Monitor and manage power distribution
+• Integrate IoT with electrical grids
+• Improve grid stability and efficiency
+• Work on real-time energy monitoring
+Skills Required
+• Power systems engineering
+• IoT and communication systems
+• Energy management systems
+• Grid automation technologies

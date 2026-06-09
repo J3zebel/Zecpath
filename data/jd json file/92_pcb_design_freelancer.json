@@ -1,0 +1,63 @@
+{
+  "job_title": "PCB Design Freelancer",
+  "company_info": {
+    "name": "Generic Electronics Corporation",
+    "industry": "Semiconductors & Electronics Manufacturing",
+    "description": "A pioneering engineering firm specializing in advanced electronic design and systems."
+  },
+  "location": {
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "is_remote": false,
+    "remote_type": "On-site"
+  },
+  "employment_type": "Contract",
+  "experience_required": {
+    "min_years": 5,
+    "max_years": 10
+  },
+  "responsibilities": [
+    "Design PCB layouts from schematics",
+    "Optimize routing, placement, and layer stack-up",
+    "Ensure EMI/EMC compliance",
+    "Generate Gerber files for manufacturing",
+    "Collaborate with hardware engineers remotely"
+  ],
+  "mandatory_skills": [
+    {
+      "name": "PCB Design",
+      "level": "Advanced",
+      "years_of_experience": 5
+    },
+    {
+      "name": "Signal integrity basics",
+      "level": "Advanced",
+      "years_of_experience": 5
+    },
+    {
+      "name": "Manufacturing design rules",
+      "level": "Advanced",
+      "years_of_experience": 5
+    },
+    {
+      "name": "Attention to detail",
+      "level": "Advanced",
+      "years_of_experience": 5
+    }
+  ],
+  "preferred_skills": [],
+  "education_requirements": [
+    "Bachelor's degree in Electronics Engineering, Electrical Engineering, Computer Science, or a related technical field."
+  ],
+  "salary_range": {
+    "min": 50,
+    "max": 100,
+    "currency": "USD",
+    "period": "Hourly"
+  },
+  "benefits": [
+    "Flexible Working Hours",
+    "Remote Work Options"
+  ]
+}

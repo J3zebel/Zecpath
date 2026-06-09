@@ -1,0 +1,16 @@
+Hardware Validation Engineer
+
+Job Overview
+Validates hardware designs to ensure they meet performance, safety, and design
+specifications before mass production.
+Responsibilities
+• Validate prototype hardware systems
+• Perform stress, load, and environmental testing
+• Compare performance with design specifications
+• Identify design weaknesses and improvement areas
+• Collaborate with design engineers for fixes
+Skills Required
+• Hardware architecture understanding
+• Signal analysis
+• Testing methodologies
+• Debugging tools (logic analyzers, oscilloscopes)

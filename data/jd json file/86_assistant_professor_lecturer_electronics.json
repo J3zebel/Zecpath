@@ -1,0 +1,66 @@
+{
+  "job_title": "Assistant Professor / Lecturer (Electronics",
+  "company_info": {
+    "name": "Generic Electronics Corporation",
+    "industry": "Semiconductors & Electronics Manufacturing",
+    "description": "A pioneering engineering firm specializing in advanced electronic design and systems."
+  },
+  "location": {
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "is_remote": false,
+    "remote_type": "On-site"
+  },
+  "employment_type": "Full-time",
+  "experience_required": {
+    "min_years": 5,
+    "max_years": 10
+  },
+  "responsibilities": [
+    "Teach subjects like circuits, VLSI, embedded systems, communication",
+    "Prepare lecture materials and lab experiments",
+    "Guide student projects and research work",
+    "Conduct exams, evaluations, and assessments",
+    "Publish academic research papers"
+  ],
+  "mandatory_skills": [
+    {
+      "name": "Deep knowledge of electronics engineering subjects",
+      "level": "Advanced",
+      "years_of_experience": 5
+    },
+    {
+      "name": "Communication and teaching skills",
+      "level": "Advanced",
+      "years_of_experience": 5
+    },
+    {
+      "name": "Research and academic writing",
+      "level": "Advanced",
+      "years_of_experience": 5
+    },
+    {
+      "name": "Curriculum development",
+      "level": "Advanced",
+      "years_of_experience": 5
+    }
+  ],
+  "preferred_skills": [],
+  "education_requirements": [
+    "Bachelor's degree in Electronics Engineering, Electrical Engineering, Computer Science, or a related technical field."
+  ],
+  "salary_range": {
+    "min": 100000,
+    "max": 140000,
+    "currency": "USD",
+    "period": "Yearly"
+  },
+  "benefits": [
+    "Health Insurance",
+    "Paid Time Off (PTO)",
+    "Professional Development Assistance",
+    "Performance Bonus",
+    "Retirement Matching (401k)"
+  ]
+}

@@ -1,0 +1,15 @@
+Electronics Design Engineer
+
+Job Overview
+Responsible for designing, developing, and testing electronic circuits and systems for
+commercial or industrial applications.
+Key Responsibilities
+• Design electronic circuits for products and systems
+• Develop schematics and system architecture
+• Perform simulation and validation of designs
+• Collaborate with PCB, embedded, and manufacturing teams
+• Improve product performance and reliability
+Required Skills
+• Analog & digital circuit design
+• Simulation tools (LTspice, Multisim)
+• Strong electronics fundamentals

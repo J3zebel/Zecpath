@@ -1,0 +1,17 @@
+Instrumentation Engineer
+
+Job Overview
+Focuses on measuring and controlling physical parameters like pressure, temperature, flow,
+and level in industries.
+Responsibilities
+• Install and calibrate sensors and instruments
+
+• Maintain measurement systems
+• Ensure accuracy of industrial sensors
+• Work with control loops and transmitters
+• Troubleshoot instrumentation issues
+Skills Required
+• Sensor technology knowledge
+• Process control basics
+• Calibration techniques
+• Industrial measurement systems

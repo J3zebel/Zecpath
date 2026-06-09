@@ -1,0 +1,15 @@
+IoT Engineer
+
+Job Overview
+Builds smart connected devices that communicate over the internet.
+Responsibilities
+• Develop IoT-based embedded systems
+• Integrate sensors and cloud platforms
+• Implement wireless communication (WiFi, BLE, LoRa)
+• Design IoT dashboards and data flow
+• Ensure device security
+Skills Required
+• IoT protocols (MQTT, HTTP)
+• Microcontrollers (ESP32, Arduino)
+• Cloud platforms (AWS IoT, Azure IoT)
+• Networking basics

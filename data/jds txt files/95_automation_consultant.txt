@@ -1,0 +1,17 @@
+Automation Consultant
+
+Job Overview
+
+Helps industries implement automation systems to improve efficiency and reduce manual
+processes.
+Responsibilities
+• Design industrial automation solutions
+• Recommend PLC, SCADA, and robotics systems
+• Improve manufacturing workflows
+• Troubleshoot automation systems
+• Optimize production efficiency
+Skills Required
+• PLC/SCADA knowledge
+• Industrial automation systems
+• Control systems basics
+• Process engineering understanding

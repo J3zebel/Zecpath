@@ -1,0 +1,13 @@
+Mixed Signal Design Engineer
+
+Job Overview
+Works on systems combining analog and digital circuits.
+Responsibilities
+• Design mixed-signal integrated systems
+• Integrate ADC/DAC circuits
+• Ensure signal integrity across domains
+• Perform simulation and verification
+Skills Required
+• Both analog + digital knowledge
+• Signal conversion systems
+• System-level design

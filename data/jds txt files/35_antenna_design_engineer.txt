@@ -1,0 +1,16 @@
+Antenna Design Engineer
+
+Job Overview
+Designs antennas used in wireless communication systems like mobile networks, satellites,
+and IoT devices.
+Responsibilities
+• Design antennas for specific frequency ranges
+• Simulate radiation patterns and gain
+• Optimize antenna size, shape, and efficiency
+• Test antenna performance in lab environments
+• Work on 5G, satellite, and IoT antenna systems
+Skills Required
+• Electromagnetic field theory
+• Antenna simulation tools (HFSS, CST)
+• RF communication basics
+• Signal radiation concepts

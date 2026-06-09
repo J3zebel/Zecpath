@@ -1,0 +1,17 @@
+Control Systems Engineer
+
+Job Overview
+Designs and implements control systems that regulate machines, processes, and industrial
+systems automatically.
+Key Responsibilities
+
+• Design feedback control systems (PID, advanced controllers)
+• Model and simulate dynamic systems
+• Tune system performance for stability and accuracy
+• Develop automation logic for industrial processes
+• Work with sensors, actuators, and controllers
+Required Skills
+• Control theory (PID, state-space)
+• MATLAB / Simulink
+• Industrial automation basics
+• System dynamics understanding

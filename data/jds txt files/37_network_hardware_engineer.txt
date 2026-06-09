@@ -1,0 +1,16 @@
+Network Hardware Engineer
+
+Job Overview
+Designs and maintains hardware components used in communication networks such as
+routers, switches, and base stations.
+Responsibilities
+• Design hardware architecture for networking devices
+• Configure routers, switches, and communication modules
+• Test hardware performance under load
+• Troubleshoot network hardware failures
+• Collaborate with software and telecom teams
+Skills Required
+• Networking hardware knowledge
+• Digital electronics
+• TCP/IP protocols
+• Hardware debugging tools

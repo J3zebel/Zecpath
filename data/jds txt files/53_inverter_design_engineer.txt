@@ -1,0 +1,16 @@
+Inverter Design Engineer
+
+Job Overview
+Designs inverters that convert DC power into AC power for various applications.
+Responsibilities
+
+• Design single-phase and three-phase inverters
+• Develop PWM control strategies
+• Optimize switching efficiency
+• Reduce harmonic distortion (THD)
+• Test inverter performance under load
+Skills Required
+• Power electronics switching theory
+• PWM techniques
+• Circuit simulation tools
+• Electrical grid basics

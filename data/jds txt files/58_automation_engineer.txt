@@ -1,0 +1,16 @@
+Automation Engineer
+
+Job Overview
+Develops automated systems to improve industrial efficiency, reduce manual work, and
+increase production accuracy.
+Responsibilities
+• Design and implement automated production systems
+• Integrate PLCs, sensors, and robotics
+• Improve manufacturing efficiency
+• Troubleshoot automation failures
+• Maintain industrial automation systems
+Skills Required
+• PLC programming basics
+• Industrial control systems
+• Electrical & electronics fundamentals
+• Robotics basics

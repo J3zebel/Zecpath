@@ -1,0 +1,15 @@
+Real-Time Systems Engineer
+
+Job Overview
+Develops systems that respond to inputs within strict time constraints.
+Responsibilities
+• Design real-time embedded applications
+• Work with RTOS (Real-Time Operating Systems)
+• Ensure deterministic system behavior
+• Optimize latency and scheduling
+• Debug timing-related issues
+Skills Required
+• RTOS (FreeRTOS, VxWorks)
+• Multithreading concepts
+• Embedded C/C++
+• System timing analysis

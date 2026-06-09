@@ -1,0 +1,15 @@
+5G / 6G Systems Engineer
+
+Job Overview
+Works on next-generation wireless communication technologies (5G and future 6G systems).
+Responsibilities
+• Design 5G/6G network architecture
+• Optimize ultra-low latency communication systems
+• Work on massive MIMO and beamforming
+• Develop network slicing and edge computing systems
+• Test high-speed wireless communication performance
+Skills Required
+• Wireless communication theory
+• 5G NR standards knowledge
+• Antenna arrays and MIMO systems
+• Network optimization techniques

@@ -1,0 +1,17 @@
+Electronics Design Consultant
+
+Job Overview
+
+Provides expert-level guidance in designing electronic circuits, systems, and products for
+companies, startups, and individuals.
+Key Responsibilities
+• Design and review electronic circuit architectures
+• Optimize product performance, cost, and reliability
+• Solve complex circuit design problems
+• Guide R&D teams in product development
+• Conduct technical feasibility studies
+Required Skills
+• Strong analog and digital electronics knowledge
+• Circuit simulation tools (SPICE, Multisim, LTspice)
+• System-level design thinking
+• Problem-solving expertise

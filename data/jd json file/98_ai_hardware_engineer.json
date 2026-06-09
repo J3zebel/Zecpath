@@ -1,0 +1,65 @@
+{
+  "job_title": "AI Hardware Engineer",
+  "company_info": {
+    "name": "Generic Electronics Corporation",
+    "industry": "Semiconductors & Electronics Manufacturing",
+    "description": "A pioneering engineering firm specializing in advanced electronic design and systems."
+  },
+  "location": {
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "is_remote": false,
+    "remote_type": "On-site"
+  },
+  "employment_type": "Full-time",
+  "experience_required": {
+    "min_years": 2,
+    "max_years": 5
+  },
+  "responsibilities": [
+    "Design AI acceleration architectures (GPU/TPU/NPU systems)",
+    "Optimize hardware for neural network performance",
+    "Improve power efficiency and processing speed",
+    "Collaborate with AI/ML software teams for model deployment",
+    "Develop edge AI and data center hardware solutions"
+  ],
+  "mandatory_skills": [
+    {
+      "name": "Digital Electronics",
+      "level": "Intermediate",
+      "years_of_experience": 2
+    },
+    {
+      "name": "Edge AI / Machine Learning",
+      "level": "Intermediate",
+      "years_of_experience": 2
+    },
+    {
+      "name": "Computer architecture",
+      "level": "Intermediate",
+      "years_of_experience": 2
+    },
+    {
+      "name": "Hardware optimization techniques",
+      "level": "Intermediate",
+      "years_of_experience": 2
+    }
+  ],
+  "preferred_skills": [],
+  "education_requirements": [
+    "Bachelor's degree in Electronics Engineering, Electrical Engineering, Computer Science, or a related technical field."
+  ],
+  "salary_range": {
+    "min": 65000,
+    "max": 95000,
+    "currency": "USD",
+    "period": "Yearly"
+  },
+  "benefits": [
+    "Health Insurance",
+    "Paid Time Off (PTO)",
+    "Professional Development Assistance",
+    "Performance Bonus"
+  ]
+}

@@ -1,0 +1,16 @@
+Neuromorphic Chip Engineer
+
+Job Overview
+Designs brain-inspired chips that mimic neural networks for ultra-low-power intelligent
+computing.
+Responsibilities
+• Develop neuromorphic chip architectures
+• Design spiking neural networks (SNN hardware)
+• Optimize AI processing for energy efficiency
+• Work on event-driven computing systems
+• Simulate brain-like processing models
+Skills Required
+• VLSI design & digital systems
+• Neural networks & AI fundamentals
+• Computer architecture
+• Low-power chip design techniques

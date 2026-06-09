@@ -1,0 +1,13 @@
+IC Design Engineer
+
+Job Overview
+Designs integrated circuits used in microchips and electronic devices.
+Responsibilities
+• Design transistor-level circuits
+• Work on chip architecture
+• Perform layout and verification
+• Ensure chip efficiency and performance
+Skills Required
+• Semiconductor physics
+• VLSI design knowledge
+• Circuit simulation tools

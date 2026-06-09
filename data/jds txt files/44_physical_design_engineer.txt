@@ -1,0 +1,15 @@
+Physical Design Engineer
+
+Job Overview
+Converts logical chip design into physical layout ready for fabrication.
+Responsibilities
+• Perform floorplanning and placement
+• Handle clock tree synthesis (CTS)
+• Perform routing and timing closure
+• Optimize chip layout for performance
+• Ensure design meets manufacturing constraints
+Skills Required
+• VLSI physical design flow
+• Timing analysis (STA)
+• EDA tools (Innovus, ICC2)
+• Semiconductor fabrication basics

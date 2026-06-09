@@ -1,0 +1,15 @@
+Telecom Engineer
+
+Job Overview
+Works on designing, maintaining, and optimizing telecommunication networks and systems.
+Responsibilities
+• Install and maintain telecom infrastructure
+• Optimize network performance and coverage
+• Troubleshoot connectivity issues
+• Work with mobile and broadband systems
+• Ensure network reliability and uptime
+Skills Required
+• Telecom protocols (LTE, GSM, VoIP)
+• Networking fundamentals
+• Signal transmission knowledge
+• Network troubleshooting

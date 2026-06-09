@@ -1,0 +1,66 @@
+{
+  "job_title": "Electronics Research Scientist",
+  "company_info": {
+    "name": "Generic Electronics Corporation",
+    "industry": "Semiconductors & Electronics Manufacturing",
+    "description": "A pioneering engineering firm specializing in advanced electronic design and systems."
+  },
+  "location": {
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "is_remote": false,
+    "remote_type": "On-site"
+  },
+  "employment_type": "Full-time",
+  "experience_required": {
+    "min_years": 5,
+    "max_years": 10
+  },
+  "responsibilities": [
+    "Conduct advanced research in electronics, semiconductors, or communication systems",
+    "Develop prototypes and experimental systems",
+    "Publish research papers in journals and conferences",
+    "Design innovative circuits, devices, or algorithms",
+    "Collaborate with academic and industrial researchers"
+  ],
+  "mandatory_skills": [
+    {
+      "name": "Strong electronics fundamentals",
+      "level": "Advanced",
+      "years_of_experience": 5
+    },
+    {
+      "name": "Research methodology",
+      "level": "Advanced",
+      "years_of_experience": 5
+    },
+    {
+      "name": "MATLAB / Simulink",
+      "level": "Advanced",
+      "years_of_experience": 5
+    },
+    {
+      "name": "Analytical and problem-solving skills",
+      "level": "Advanced",
+      "years_of_experience": 5
+    }
+  ],
+  "preferred_skills": [],
+  "education_requirements": [
+    "Master's or Ph.D. in Electronics Engineering, Physics, or a closely related quantitative field."
+  ],
+  "salary_range": {
+    "min": 100000,
+    "max": 140000,
+    "currency": "USD",
+    "period": "Yearly"
+  },
+  "benefits": [
+    "Health Insurance",
+    "Paid Time Off (PTO)",
+    "Professional Development Assistance",
+    "Performance Bonus",
+    "Retirement Matching (401k)"
+  ]
+}

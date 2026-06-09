@@ -1,0 +1,15 @@
+EV Charging Systems Engineer
+
+Job Overview
+Designs and develops fast, safe, and efficient electric vehicle charging infrastructure.
+Responsibilities
+• Design AC/DC fast charging systems
+• Develop power conversion and protection circuits
+• Optimize charging efficiency and speed
+• Ensure grid compatibility and load balancing
+• Work on smart charging and billing systems
+Skills Required
+• Power electronics fundamentals
+• High-voltage system design
+• Battery charging technologies
+• Electrical safety standards

@@ -1,0 +1,16 @@
+Cyber-Physical Systems Engineer
+
+Job Overview
+Designs systems where physical devices and software interact in real time (smart factories,
+autonomous cars, robotics).
+Responsibilities
+• Integrate sensors, actuators, and software systems
+• Develop real-time control systems
+• Ensure safe interaction between physical and digital systems
+• Work on automation and robotics applications
+• Simulate system behavior
+Skills Required
+• Control systems
+• Embedded programming
+• Real-time systems
+• System modeling and simulation

@@ -1,0 +1,13 @@
+Digital Electronics Engineer
+
+Job Overview
+Designs digital circuits and systems based on logic and binary operations.
+Responsibilities
+• Design logic circuits and digital systems
+• Work with combinational and sequential circuits
+• Develop timing diagrams and state machines
+• Test digital IC behavior
+Skills Required
+• Boolean algebra
+• Digital logic design
+• Flip-flops, counters, registers

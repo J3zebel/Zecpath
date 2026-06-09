@@ -1,0 +1,17 @@
+Edge Computing Engineer
+
+Job Overview
+Works on computing systems that process data locally on devices instead of sending it to the
+cloud.
+Responsibilities
+• Design edge-based processing systems
+• Reduce latency by local data processing
+
+• Integrate AI models into edge devices
+• Optimize bandwidth and power usage
+• Work with IoT and embedded systems
+Skills Required
+• Embedded systems
+• Cloud + distributed computing
+• AI model deployment
+• Networking basics

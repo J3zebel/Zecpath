@@ -1,0 +1,16 @@
+EV Powertrain Electronics Engineer
+
+Job Overview
+Designs electronic systems that control electric vehicle propulsion systems.
+
+Responsibilities
+• Develop EV motor control systems
+• Design power electronics for drivetrain
+• Work on regenerative braking systems
+• Optimize energy efficiency and performance
+• Integrate battery and motor systems
+Skills Required
+• EV architecture basics
+• Power electronics + motor control
+• Embedded systems knowledge
+• Automotive electronics standards

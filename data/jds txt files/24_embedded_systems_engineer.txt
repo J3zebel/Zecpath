@@ -1,0 +1,17 @@
+Embedded Systems Engineer
+
+Job Overview
+Designs and develops embedded hardware-software systems used in devices like appliances,
+automotive systems, and industrial controllers.
+Key Responsibilities
+• Design embedded system architecture
+• Develop firmware for microcontrollers
+• Integrate hardware with software modules
+• Debug embedded systems using tools (JTAG, logic analyzer)
+• Optimize performance, memory, and power consumption
+Required Skills
+
+• Embedded C / C++
+• Microcontrollers (ARM, AVR, PIC)
+• RTOS basics
+• Hardware interfacing (GPIO, UART, SPI, I2C)

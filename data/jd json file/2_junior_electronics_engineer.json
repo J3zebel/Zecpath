@@ -1,0 +1,60 @@
+{
+  "job_title": "Junior Electronics Engineer",
+  "company_info": {
+    "name": "Generic Electronics Corporation",
+    "industry": "Semiconductors & Electronics Manufacturing",
+    "description": "A pioneering engineering firm specializing in advanced electronic design and systems."
+  },
+  "location": {
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "is_remote": false,
+    "remote_type": "On-site"
+  },
+  "employment_type": "Full-time",
+  "experience_required": {
+    "min_years": 1,
+    "max_years": 3
+  },
+  "responsibilities": [
+    "Assist in PCB design and circuit debugging",
+    "Perform hardware testing and validation",
+    "Maintain technical documentation",
+    "Support product development cycles",
+    "Troubleshoot hardware issues"
+  ],
+  "mandatory_skills": [
+    {
+      "name": "Analog Electronics",
+      "level": "Beginner",
+      "years_of_experience": 0
+    },
+    {
+      "name": "Hardware Testing & Troubleshooting",
+      "level": "Beginner",
+      "years_of_experience": 0
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "PCB Design",
+      "level": "Beginner"
+    }
+  ],
+  "education_requirements": [
+    "Bachelor's degree in Electronics Engineering, Electrical Engineering, Computer Science, or a related technical field."
+  ],
+  "salary_range": {
+    "min": 35000,
+    "max": 55000,
+    "currency": "USD",
+    "period": "Yearly"
+  },
+  "benefits": [
+    "Health Insurance",
+    "Paid Time Off (PTO)",
+    "Professional Development Assistance",
+    "Mentorship & Training Programs"
+  ]
+}

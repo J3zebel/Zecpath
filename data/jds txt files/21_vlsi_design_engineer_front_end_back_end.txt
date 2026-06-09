@@ -1,0 +1,17 @@
+VLSI Design Engineer (Front-End / Back-End)
+
+Job Overview
+Designs integrated circuits (ICs) at chip level.
+Responsibilities
+Front-End:
+• RTL design using Verilog/VHDL
+• Functional verification
+• Simulation and debugging
+Back-End:
+• Physical design and layout
+• Timing analysis
+• Chip optimization
+Skills Required
+• HDL languages (Verilog/VHDL)
+• Digital design concepts
+• EDA tools (Cadence, Synopsys)

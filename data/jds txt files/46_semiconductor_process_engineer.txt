@@ -1,0 +1,15 @@
+Semiconductor Process Engineer
+
+Job Overview
+Focuses on manufacturing processes used to build semiconductor chips.
+Responsibilities
+• Design and improve fabrication processes
+• Work on photolithography, etching, doping
+• Improve yield and reduce defects
+• Monitor cleanroom production
+• Develop process optimization methods
+Skills Required
+• Semiconductor physics
+• Fabrication process knowledge
+• Materials science basics
+• Cleanroom manufacturing standards

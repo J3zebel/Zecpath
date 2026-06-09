@@ -1,0 +1,17 @@
+Power Electronics Engineer
+
+Job Overview
+
+Designs and develops systems that convert and control electrical power efficiently for
+industrial, automotive, and renewable applications.
+Key Responsibilities
+• Design power conversion circuits (AC-DC, DC-DC, DC-AC)
+• Develop switching power supplies and converters
+• Work with power semiconductors (MOSFET, IGBT, SiC, GaN)
+• Improve efficiency, thermal performance, and reliability
+• Perform simulation and hardware testing
+Required Skills
+• Power electronics fundamentals
+• Circuit simulation tools (PSIM, MATLAB, PLECS)
+• Electrical machines basics
+• Thermal and efficiency analysis

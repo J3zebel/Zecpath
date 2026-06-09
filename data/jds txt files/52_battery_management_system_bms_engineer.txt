@@ -1,0 +1,15 @@
+Battery Management System (BMS) Engineer
+
+Job Overview
+Designs systems that monitor and control battery packs in EVs and energy storage systems.
+Responsibilities
+• Monitor battery voltage, current, and temperature
+• Design SOC (State of Charge) and SOH (State of Health) algorithms
+• Ensure battery safety and thermal management
+• Prevent overcharging and deep discharge
+• Work with EV and storage systems
+Skills Required
+• Battery chemistry basics (Li-ion systems)
+• Embedded systems knowledge
+• Control algorithms
+• Safety systems understanding

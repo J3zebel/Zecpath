@@ -1,0 +1,16 @@
+Space Electronics Engineer
+
+Job Overview
+Develops high-reliability electronic systems used in satellites, spacecraft, and space
+exploration missions.
+Responsibilities
+• Design radiation-hardened electronic circuits
+• Develop satellite communication and control systems
+• Ensure reliability in extreme space conditions
+• Work on telemetry and tracking systems
+• Test components for space qualification
+Skills Required
+• RF and communication systems
+• High-reliability electronics design
+• Space environment effects on electronics
+• Aerospace systems fundamentals

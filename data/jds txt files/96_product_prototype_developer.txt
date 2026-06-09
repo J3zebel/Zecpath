@@ -1,0 +1,15 @@
+Product Prototype Developer
+
+Job Overview
+Builds functional prototypes of electronic products for startups, inventors, and companies.
+Responsibilities
+• Convert ideas into working prototypes
+• Design circuits and embedded systems
+• Build and test hardware prototypes
+• Iterate product design based on feedback
+• Prepare prototype for manufacturing stage
+Skills Required
+• Circuit design and PCB development
+• Embedded systems knowledge
+• Rapid prototyping tools (Arduino, ESP32)
+• Debugging and testing skills

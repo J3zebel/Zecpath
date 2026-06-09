@@ -1,0 +1,15 @@
+Motor Control Engineer
+
+Job Overview
+Develops control systems for electric motors used in EVs, robotics, and industrial systems.
+Responsibilities
+• Design motor control algorithms (FOC, PWM control)
+• Optimize motor speed and torque
+• Integrate sensors (Hall, encoder systems)
+• Reduce power losses and heat generation
+• Work with embedded controllers
+Skills Required
+• Control systems theory
+• Electric machine fundamentals
+• Embedded programming
+• MATLAB/Simulink

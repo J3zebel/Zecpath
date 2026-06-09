@@ -1,0 +1,1644 @@
+1. Electronics Engineer (Trainee)
+Job Overview
+A trainee electronics engineer works under supervision to learn core electronics systems,
+circuit design, testing, and basic troubleshooting in real-world projects.
+Key Responsibilities
+• Assist in electronic circuit assembly and testing
+• Support senior engineers in design and development tasks
+• Perform basic troubleshooting of electronic systems
+• Study schematics and technical drawings
+• Participate in lab experiments and prototype development
+Required Skills
+• Basic electronics (diodes, transistors, ICs)
+• Circuit fundamentals
+• Soldering and PCB basics
+• Willingness to learn
+
+2. Junior Electronics Engineer
+Job Overview
+Handles basic design, testing, and maintenance tasks in electronics projects under guidance of
+senior engineers.
+Responsibilities
+• Assist in PCB design and circuit debugging
+• Perform hardware testing and validation
+• Maintain technical documentation
+• Support product development cycles
+• Troubleshoot hardware issues
+Skills Required
+• Analog & digital electronics basics
+• PCB design knowledge (Altium/Eagle preferred)
+• Basic testing tools (multimeter, oscilloscope)
+
+3. Graduate Engineer Trainee (GET – Electronics)
+
+Job Overview
+A structured training program for fresh graduates to develop technical and industrial skills
+before becoming full-time engineers.
+Responsibilities
+• Undergo training in electronics design and manufacturing
+• Learn company products and systems
+• Assist in production and R&D departments
+• Work on mini-projects and assessments
+• Rotate across departments (design, testing, production)
+Skills Required
+• Strong fundamentals in electronics engineering
+• Problem-solving ability
+• Basic programming knowledge (optional)
+
+4. PCB Design Trainee
+Job Overview
+Focused on learning printed circuit board design and layout creation for electronic devices.
+Responsibilities
+• Assist in PCB schematic creation
+• Learn PCB layout design tools
+• Place components and route circuits
+• Support prototype PCB testing
+• Ensure design follows industry standards
+Skills Required
+• PCB design software (Altium, KiCad, Eagle)
+• Basic circuit theory
+• Attention to detail
+
+5. Embedded Systems Trainee Engineer
+Job Overview
+Works on microcontrollers and embedded system development under guidance.
+
+Responsibilities
+• Assist in coding embedded C programs
+• Work with microcontrollers (Arduino, STM32, PIC)
+• Test embedded hardware systems
+• Debug firmware issues
+• Support IoT device development
+Skills Required
+• Embedded C programming
+• Basic microcontroller knowledge
+• Understanding of sensors & actuators
+
+6. Test Engineer (Electronics)
+Job Overview
+Responsible for testing electronic products to ensure quality and functionality.
+Responsibilities
+• Perform hardware and system testing
+• Identify faults in electronic circuits
+• Document test results and reports
+• Work with oscilloscopes and testing tools
+• Support product validation process
+Skills Required
+• Electronics testing tools
+• Circuit analysis basics
+• Problem-solving skills
+
+7. Service Engineer (Electronics Equipment)
+Job Overview
+Installs, maintains, and repairs electronic systems and equipment at client locations.
+Responsibilities
+• Install electronic devices and systems
+• Perform repair and maintenance
+
+• Provide customer technical support
+• Diagnose hardware issues on-site
+• Maintain service reports
+Skills Required
+• Electronics troubleshooting
+• Field service experience
+• Communication skills
+
+8. Field Service Engineer
+Job Overview
+Works in field environments to ensure proper functioning of electronic systems.
+Responsibilities
+• On-site installation and maintenance
+• System diagnostics and repair
+• Customer interaction and support
+• Equipment calibration
+• Reporting technical issues
+Skills Required
+• Practical electronics knowledge
+• Problem-solving ability
+• Willingness to travel
+
+9. Production Engineer (Electronics Manufacturing)
+Job Overview
+Works in manufacturing plants to ensure smooth production of electronic devices.
+Responsibilities
+• Monitor production line efficiency
+• Ensure quality control in manufacturing
+• Troubleshoot production issues
+• Improve production processes
+• Maintain equipment performance
+
+Skills Required
+• Electronics manufacturing basics
+• Process understanding
+• Quality control awareness
+
+10. Quality Control (QC) Engineer – Electronics
+Job Overview
+Ensures electronic products meet quality and safety standards.
+Responsibilities
+• Inspect electronic components and assemblies
+• Conduct quality testing
+• Identify defects and report issues
+• Ensure compliance with standards
+• Maintain QC documentation
+Skills Required
+• Knowledge of quality standards
+• Testing procedures
+• Attention to detail
+
+11. Technical Support Engineer (Electronics)
+Job Overview
+Provides technical assistance for electronic products and systems.
+Responsibilities
+• Assist customers with technical issues
+• Troubleshoot electronic devices
+• Provide remote support solutions
+• Document technical problems
+• Coordinate with engineering teams
+Skills Required
+• Electronics troubleshooting
+• Communication skills
+
+• Basic software/hardware knowledge
+
+12. Electronics Design Engineer
+Job Overview
+Responsible for designing, developing, and testing electronic circuits and systems for
+commercial or industrial applications.
+Key Responsibilities
+• Design electronic circuits for products and systems
+• Develop schematics and system architecture
+• Perform simulation and validation of designs
+• Collaborate with PCB, embedded, and manufacturing teams
+• Improve product performance and reliability
+Required Skills
+• Analog & digital circuit design
+• Simulation tools (LTspice, Multisim)
+• Strong electronics fundamentals
+
+13. Hardware Design Engineer
+Job Overview
+Focuses on designing and developing physical electronic hardware components and systems.
+Responsibilities
+• Design hardware architecture for devices
+• Select components (ICs, sensors, power modules)
+• Develop prototypes and test hardware performance
+• Ensure compliance with industry standards
+• Troubleshoot hardware failures
+Skills Required
+• Hardware integration knowledge
+• PCB and circuit understanding
+• Debugging tools (oscilloscope, logic analyzer)
+
+14. Analog Electronics Engineer
+Job Overview
+Works on continuous signal-based electronic systems like amplifiers, filters, and power
+circuits.
+Responsibilities
+• Design analog circuits (amplifiers, oscillators, filters)
+• Analyze signal behavior and noise reduction
+• Optimize circuit stability and performance
+• Perform simulation and lab testing
+Skills Required
+• Analog circuit theory
+• Op-amp design
+• Signal processing basics
+
+15. Digital Electronics Engineer
+Job Overview
+Designs digital circuits and systems based on logic and binary operations.
+Responsibilities
+• Design logic circuits and digital systems
+• Work with combinational and sequential circuits
+• Develop timing diagrams and state machines
+• Test digital IC behavior
+Skills Required
+• Boolean algebra
+• Digital logic design
+• Flip-flops, counters, registers
+
+16. Mixed Signal Design Engineer
+
+Job Overview
+Works on systems combining analog and digital circuits.
+Responsibilities
+• Design mixed-signal integrated systems
+• Integrate ADC/DAC circuits
+• Ensure signal integrity across domains
+• Perform simulation and verification
+Skills Required
+• Both analog + digital knowledge
+• Signal conversion systems
+• System-level design
+
+17. PCB Design Engineer
+Job Overview
+Responsible for designing printed circuit board layouts for electronic products.
+Responsibilities
+• Create PCB layouts from schematics
+• Route traces and place components
+• Optimize board size and performance
+• Ensure EMI/EMC compliance
+• Prepare Gerber files for manufacturing
+Skills Required
+• Altium Designer / KiCad / Eagle
+• PCB stack-up design
+• Manufacturing rules knowledge
+
+18. Circuit Design Engineer
+Job Overview
+Focuses on designing complete electronic circuits for various applications.
+Responsibilities
+
+• Develop circuit diagrams and schematics
+• Perform circuit simulation and testing
+• Optimize power and performance
+• Troubleshoot circuit-level issues
+Skills Required
+• Strong electronics fundamentals
+• SPICE simulation tools
+• Component-level understanding
+
+19. RF Circuit Design Engineer
+Job Overview
+Designs circuits that operate at radio frequency for wireless communication systems.
+Responsibilities
+• Design RF amplifiers, oscillators, and filters
+• Work on antennas and transmission systems
+• Analyze signal propagation and interference
+• Test RF performance using spectrum analyzers
+Skills Required
+• Electromagnetics basics
+• High-frequency circuit design
+• RF simulation tools (ADS, HFSS)
+
+20. Power Electronics Engineer
+Job Overview
+Works on high-power systems for energy conversion and control.
+Responsibilities
+• Design converters (AC-DC, DC-DC, DC-AC)
+• Develop motor control circuits
+• Work on EV, solar, and battery systems
+• Improve energy efficiency
+
+Skills Required
+• Power semiconductors (MOSFET, IGBT)
+• Electrical machine basics
+• Power system analysis
+
+21. VLSI Design Engineer (Front-End / Back-End)
+Job Overview
+Designs integrated circuits (ICs) at chip level.
+Responsibilities
+Front-End:
+• RTL design using Verilog/VHDL
+• Functional verification
+• Simulation and debugging
+Back-End:
+• Physical design and layout
+• Timing analysis
+• Chip optimization
+Skills Required
+• HDL languages (Verilog/VHDL)
+• Digital design concepts
+• EDA tools (Cadence, Synopsys)
+
+22. FPGA Design Engineer
+Job Overview
+Implements digital systems using FPGA hardware platforms.
+Responsibilities
+• Program FPGA using HDL
+• Design real-time processing systems
+• Test hardware logic implementation
+• Optimize performance and speed
+
+Skills Required
+• Verilog/VHDL
+• FPGA tools (Xilinx, Intel Quartus)
+• Digital system design
+
+23. IC Design Engineer
+Job Overview
+Designs integrated circuits used in microchips and electronic devices.
+Responsibilities
+• Design transistor-level circuits
+• Work on chip architecture
+• Perform layout and verification
+• Ensure chip efficiency and performance
+Skills Required
+• Semiconductor physics
+• VLSI design knowledge
+• Circuit simulation tools
+
+24. Embedded Systems Engineer
+Job Overview
+Designs and develops embedded hardware-software systems used in devices like appliances,
+automotive systems, and industrial controllers.
+Key Responsibilities
+• Design embedded system architecture
+• Develop firmware for microcontrollers
+• Integrate hardware with software modules
+• Debug embedded systems using tools (JTAG, logic analyzer)
+• Optimize performance, memory, and power consumption
+Required Skills
+
+• Embedded C / C++
+• Microcontrollers (ARM, AVR, PIC)
+• RTOS basics
+• Hardware interfacing (GPIO, UART, SPI, I2C)
+
+25. Firmware Engineer
+Job Overview
+Develops low-level software that directly controls hardware components.
+Responsibilities
+• Write and optimize firmware code
+• Interface hardware drivers with software
+• Debug device-level issues
+• Update firmware for product enhancements
+• Ensure real-time performance
+Skills Required
+• C programming (strong)
+• Device driver basics
+• Memory management
+• Embedded debugging tools
+
+26. Embedded Software Engineer
+Job Overview
+Focuses on software development for embedded devices and smart systems.
+Responsibilities
+• Develop embedded application software
+• Work on OS-level integration (Linux/RTOS)
+• Optimize system performance
+• Collaborate with hardware teams
+• Maintain software documentation
+Skills Required
+• C/C++ programming
+• Linux basics
+
+• Embedded Linux tools
+• System-level debugging
+
+27. IoT Engineer
+Job Overview
+Builds smart connected devices that communicate over the internet.
+Responsibilities
+• Develop IoT-based embedded systems
+• Integrate sensors and cloud platforms
+• Implement wireless communication (WiFi, BLE, LoRa)
+• Design IoT dashboards and data flow
+• Ensure device security
+Skills Required
+• IoT protocols (MQTT, HTTP)
+• Microcontrollers (ESP32, Arduino)
+• Cloud platforms (AWS IoT, Azure IoT)
+• Networking basics
+
+28. Microcontroller Programmer
+Job Overview
+Programs microcontrollers for controlling electronic devices and systems.
+Responsibilities
+• Write embedded code for microcontrollers
+• Configure timers, interrupts, and peripherals
+• Test and debug hardware behavior
+• Develop small automation systems
+• Interface sensors and actuators
+Skills Required
+• Embedded C programming
+• Microcontroller architecture
+• Basic electronics knowledge
+• Programming tools (Keil, MPLAB)
+
+29. Real-Time Systems Engineer
+Job Overview
+Develops systems that respond to inputs within strict time constraints.
+Responsibilities
+• Design real-time embedded applications
+• Work with RTOS (Real-Time Operating Systems)
+• Ensure deterministic system behavior
+• Optimize latency and scheduling
+• Debug timing-related issues
+Skills Required
+• RTOS (FreeRTOS, VxWorks)
+• Multithreading concepts
+• Embedded C/C++
+• System timing analysis
+
+30. Linux Embedded Engineer
+Job Overview
+Works on embedded systems running Linux-based operating systems.
+Responsibilities
+• Develop embedded Linux applications
+• Customize Linux kernel
+• Write device drivers
+• Work with bootloaders (U-Boot)
+• Optimize system performance
+Skills Required
+• Linux OS fundamentals
+• Shell scripting
+• C programming
+• Kernel & driver development
+
+31. Automotive Embedded Engineer (ECU Systems)
+Job Overview
+Designs embedded systems used in vehicles (Engine Control Units, infotainment, safety
+systems).
+Responsibilities
+• Develop ECU software systems
+• Work on CAN, LIN, and automotive protocols
+• Ensure safety compliance (ISO 26262)
+• Test automotive embedded systems
+• Debug real-time vehicle systems
+Skills Required
+• Automotive communication protocols
+• Embedded C programming
+• CAN/LIN bus knowledge
+• Safety standards understanding
+
+32. Robotics Embedded Engineer
+Job Overview
+Builds embedded systems for robots and automation machines.
+Responsibilities
+• Design control systems for robots
+• Integrate sensors and actuators
+• Program robotic movement logic
+• Work with motor controllers
+• Support AI/vision integration
+Skills Required
+• Embedded systems + robotics basics
+• Control systems
+• Microcontrollers & sensors
+• C/C++ programming
+
+33. RF Engineer (Radio Frequency Engineer)
+Job Overview
+RF Engineers design and develop circuits and systems that transmit and receive radio waves
+used in wireless communication systems.
+Key Responsibilities
+• Design RF circuits such as amplifiers, filters, and oscillators
+• Work on wireless communication systems (WiFi, LTE, 5G)
+• Test RF performance using spectrum analyzers and network analyzers
+• Reduce noise, interference, and signal loss
+• Optimize antenna and transmitter/receiver performance
+Required Skills
+• Electromagnetics fundamentals
+• RF circuit design
+• High-frequency electronics
+• Simulation tools (ADS, HFSS, CST)
+
+34. Microwave Engineer
+Job Overview
+Works on high-frequency microwave systems used in radar, satellite, and communication
+links.
+Responsibilities
+• Design microwave components (waveguides, filters, couplers)
+• Develop radar and satellite communication systems
+• Analyze signal propagation at microwave frequencies
+• Test high-frequency circuits and antennas
+• Ensure system efficiency and low signal loss
+Skills Required
+• Microwave theory and electromagnetics
+• S-parameter analysis
+• RF simulation tools
+• High-frequency circuit design
+
+35. Antenna Design Engineer
+Job Overview
+Designs antennas used in wireless communication systems like mobile networks, satellites,
+and IoT devices.
+Responsibilities
+• Design antennas for specific frequency ranges
+• Simulate radiation patterns and gain
+• Optimize antenna size, shape, and efficiency
+• Test antenna performance in lab environments
+• Work on 5G, satellite, and IoT antenna systems
+Skills Required
+• Electromagnetic field theory
+• Antenna simulation tools (HFSS, CST)
+• RF communication basics
+• Signal radiation concepts
+
+36. Telecom Engineer
+Job Overview
+Works on designing, maintaining, and optimizing telecommunication networks and systems.
+Responsibilities
+• Install and maintain telecom infrastructure
+• Optimize network performance and coverage
+• Troubleshoot connectivity issues
+• Work with mobile and broadband systems
+• Ensure network reliability and uptime
+Skills Required
+• Telecom protocols (LTE, GSM, VoIP)
+• Networking fundamentals
+• Signal transmission knowledge
+• Network troubleshooting
+
+37. Network Hardware Engineer
+Job Overview
+Designs and maintains hardware components used in communication networks such as
+routers, switches, and base stations.
+Responsibilities
+• Design hardware architecture for networking devices
+• Configure routers, switches, and communication modules
+• Test hardware performance under load
+• Troubleshoot network hardware failures
+• Collaborate with software and telecom teams
+Skills Required
+• Networking hardware knowledge
+• Digital electronics
+• TCP/IP protocols
+• Hardware debugging tools
+
+38. Signal Processing Engineer
+Job Overview
+Works on analyzing and processing signals to improve communication quality and data
+transmission.
+Responsibilities
+• Design algorithms for signal filtering and enhancement
+• Process audio, video, and communication signals
+• Reduce noise and improve signal clarity
+• Develop DSP (Digital Signal Processing) systems
+• Work on real-time signal applications
+Skills Required
+• Digital Signal Processing (DSP)
+• Fourier Transform, filters, wavelets
+• MATLAB / Python
+• Mathematics (linear algebra, probability)
+
+39. Satellite Communication Engineer
+Job Overview
+Designs and manages satellite-based communication systems used for broadcasting,
+navigation, and defense.
+Responsibilities
+• Design satellite communication links
+• Work on uplink/downlink signal systems
+• Maintain satellite ground stations
+• Optimize transmission power and frequency usage
+• Ensure reliable long-distance communication
+Skills Required
+• RF and microwave engineering
+• Orbital mechanics basics
+• Communication theory
+• Satellite link budgeting
+
+40. 5G / 6G Systems Engineer
+Job Overview
+Works on next-generation wireless communication technologies (5G and future 6G systems).
+Responsibilities
+• Design 5G/6G network architecture
+• Optimize ultra-low latency communication systems
+• Work on massive MIMO and beamforming
+• Develop network slicing and edge computing systems
+• Test high-speed wireless communication performance
+Skills Required
+• Wireless communication theory
+• 5G NR standards knowledge
+• Antenna arrays and MIMO systems
+• Network optimization techniques
+
+41. VLSI Design Engineer
+Job Overview
+Designs integrated circuits (ICs) used in electronic systems such as processors, memory
+devices, and SoCs (System on Chip).
+Key Responsibilities
+• Design digital circuits using RTL coding (Verilog/VHDL)
+• Develop system-level chip architecture
+• Perform simulation and functional verification
+• Optimize chip performance, power, and area (PPA)
+• Collaborate with verification and physical design teams
+Required Skills
+• Verilog / VHDL
+• Digital electronics fundamentals
+• RTL design concepts
+• EDA tools (Cadence, Synopsys)
+
+42. ASIC Design Engineer
+Job Overview
+Designs Application-Specific Integrated Circuits customized for specific applications (AI
+chips, mobile processors, etc.).
+Responsibilities
+• Develop ASIC architecture and RTL design
+• Work on low-power and high-performance chip design
+• Optimize chip functionality for specific applications
+• Perform design synthesis and simulation
+• Ensure manufacturability and reliability
+Skills Required
+• Advanced digital design
+• ASIC flow understanding
+• Hardware description languages
+• Timing and power optimization
+
+43. Verification Engineer (VLSI)
+Job Overview
+Ensures that chip designs function correctly before manufacturing.
+Responsibilities
+• Write test benches for RTL verification
+• Perform functional and regression testing
+• Identify and debug design errors
+• Use simulation tools for verification
+• Ensure design meets specifications
+Skills Required
+• SystemVerilog / Verilog
+• UVM (Universal Verification Methodology)
+• Simulation tools (ModelSim, VCS)
+• Strong debugging skills
+
+44. Physical Design Engineer
+Job Overview
+Converts logical chip design into physical layout ready for fabrication.
+Responsibilities
+• Perform floorplanning and placement
+• Handle clock tree synthesis (CTS)
+• Perform routing and timing closure
+• Optimize chip layout for performance
+• Ensure design meets manufacturing constraints
+Skills Required
+• VLSI physical design flow
+• Timing analysis (STA)
+• EDA tools (Innovus, ICC2)
+• Semiconductor fabrication basics
+
+45. Chip Layout Engineer
+
+Job Overview
+Designs the physical arrangement of transistors and components inside a chip.
+Responsibilities
+• Create IC layout diagrams
+• Ensure correct transistor placement
+• Optimize silicon area usage
+• Maintain design rule compliance (DRC)
+• Work with fabrication guidelines
+Skills Required
+• CMOS design fundamentals
+• Layout tools (Cadence Virtuoso)
+• Semiconductor device physics
+• Precision design skills
+
+46. Semiconductor Process Engineer
+Job Overview
+Focuses on manufacturing processes used to build semiconductor chips.
+Responsibilities
+• Design and improve fabrication processes
+• Work on photolithography, etching, doping
+• Improve yield and reduce defects
+• Monitor cleanroom production
+• Develop process optimization methods
+Skills Required
+• Semiconductor physics
+• Fabrication process knowledge
+• Materials science basics
+• Cleanroom manufacturing standards
+
+47. Wafer Fabrication Engineer
+Job Overview
+
+Works directly in semiconductor fabs (factories) to manufacture silicon wafers.
+Responsibilities
+• Operate wafer fabrication equipment
+• Monitor wafer production quality
+• Handle deposition, etching, and polishing processes
+• Inspect wafers for defects
+• Ensure production efficiency
+Skills Required
+• Semiconductor manufacturing knowledge
+• Cleanroom protocols
+• Equipment handling
+• Process control systems
+
+48. Test & Validation Engineer (Semiconductor)
+Job Overview
+Tests semiconductor chips after manufacturing to ensure they meet specifications.
+Responsibilities
+• Perform IC testing and validation
+• Identify defects in fabricated chips
+• Develop test cases and automation scripts
+• Analyze failure patterns
+• Ensure product reliability before release
+Skills Required
+• IC testing methodologies
+• ATE (Automated Test Equipment)
+• Signal analysis
+• Debugging and validation tools
+
+49. Power Electronics Engineer
+Job Overview
+
+Designs and develops systems that convert and control electrical power efficiently for
+industrial, automotive, and renewable applications.
+Key Responsibilities
+• Design power conversion circuits (AC-DC, DC-DC, DC-AC)
+• Develop switching power supplies and converters
+• Work with power semiconductors (MOSFET, IGBT, SiC, GaN)
+• Improve efficiency, thermal performance, and reliability
+• Perform simulation and hardware testing
+Required Skills
+• Power electronics fundamentals
+• Circuit simulation tools (PSIM, MATLAB, PLECS)
+• Electrical machines basics
+• Thermal and efficiency analysis
+
+50. Solar Electronics Engineer
+Job Overview
+Works on electronic systems used in solar energy generation and conversion systems.
+Responsibilities
+• Design solar inverter and MPPT systems
+• Optimize solar power conversion efficiency
+• Integrate solar panels with power electronics systems
+• Test solar charge controllers
+• Monitor energy output systems
+Skills Required
+• Solar PV systems knowledge
+• MPPT algorithms
+• Power conversion systems
+• Electrical energy basics
+
+51. EV Powertrain Electronics Engineer
+Job Overview
+Designs electronic systems that control electric vehicle propulsion systems.
+
+Responsibilities
+• Develop EV motor control systems
+• Design power electronics for drivetrain
+• Work on regenerative braking systems
+• Optimize energy efficiency and performance
+• Integrate battery and motor systems
+Skills Required
+• EV architecture basics
+• Power electronics + motor control
+• Embedded systems knowledge
+• Automotive electronics standards
+
+52. Battery Management System (BMS) Engineer
+Job Overview
+Designs systems that monitor and control battery packs in EVs and energy storage systems.
+Responsibilities
+• Monitor battery voltage, current, and temperature
+• Design SOC (State of Charge) and SOH (State of Health) algorithms
+• Ensure battery safety and thermal management
+• Prevent overcharging and deep discharge
+• Work with EV and storage systems
+Skills Required
+• Battery chemistry basics (Li-ion systems)
+• Embedded systems knowledge
+• Control algorithms
+• Safety systems understanding
+
+53. Inverter Design Engineer
+Job Overview
+Designs inverters that convert DC power into AC power for various applications.
+Responsibilities
+
+• Design single-phase and three-phase inverters
+• Develop PWM control strategies
+• Optimize switching efficiency
+• Reduce harmonic distortion (THD)
+• Test inverter performance under load
+Skills Required
+• Power electronics switching theory
+• PWM techniques
+• Circuit simulation tools
+• Electrical grid basics
+
+54. Motor Control Engineer
+Job Overview
+Develops control systems for electric motors used in EVs, robotics, and industrial systems.
+Responsibilities
+• Design motor control algorithms (FOC, PWM control)
+• Optimize motor speed and torque
+• Integrate sensors (Hall, encoder systems)
+• Reduce power losses and heat generation
+• Work with embedded controllers
+Skills Required
+• Control systems theory
+• Electric machine fundamentals
+• Embedded programming
+• MATLAB/Simulink
+
+55. Renewable Energy Electronics Engineer
+Job Overview
+Works on electronic systems used in renewable energy sources like wind, solar, and hybrid
+systems.
+Responsibilities
+• Design renewable energy conversion systems
+
+• Integrate wind and solar hybrid systems
+• Optimize energy storage and distribution
+• Improve grid compatibility
+• Monitor system efficiency
+Skills Required
+• Renewable energy systems
+• Power conversion electronics
+• Energy storage technologies
+• System integration knowledge
+
+56. Smart Grid Electronics Engineer
+Job Overview
+Designs intelligent power distribution systems for modern electricity grids.
+Responsibilities
+• Develop smart grid control systems
+• Monitor and manage power distribution
+• Integrate IoT with electrical grids
+• Improve grid stability and efficiency
+• Work on real-time energy monitoring
+Skills Required
+• Power systems engineering
+• IoT and communication systems
+• Energy management systems
+• Grid automation technologies
+
+57. Control Systems Engineer
+Job Overview
+Designs and implements control systems that regulate machines, processes, and industrial
+systems automatically.
+Key Responsibilities
+
+• Design feedback control systems (PID, advanced controllers)
+• Model and simulate dynamic systems
+• Tune system performance for stability and accuracy
+• Develop automation logic for industrial processes
+• Work with sensors, actuators, and controllers
+Required Skills
+• Control theory (PID, state-space)
+• MATLAB / Simulink
+• Industrial automation basics
+• System dynamics understanding
+
+58. Automation Engineer
+Job Overview
+Develops automated systems to improve industrial efficiency, reduce manual work, and
+increase production accuracy.
+Responsibilities
+• Design and implement automated production systems
+• Integrate PLCs, sensors, and robotics
+• Improve manufacturing efficiency
+• Troubleshoot automation failures
+• Maintain industrial automation systems
+Skills Required
+• PLC programming basics
+• Industrial control systems
+• Electrical & electronics fundamentals
+• Robotics basics
+
+59. PLC Programmer (Automation Engineer)
+Job Overview
+Programs Programmable Logic Controllers (PLCs) used in factories for machine automation.
+Responsibilities
+• Write PLC ladder logic programs
+
+• Configure industrial machines and sensors
+• Debug automation control systems
+• Develop sequence control logic
+• Interface PLC with SCADA systems
+Skills Required
+• PLC programming (Siemens, Allen-Bradley, Delta)
+• Ladder logic, FBD, STL
+• Industrial automation systems
+• Electrical wiring knowledge
+
+60. SCADA Engineer
+Job Overview
+Designs and maintains SCADA (Supervisory Control and Data Acquisition) systems for
+monitoring industrial processes.
+Responsibilities
+• Develop SCADA dashboards for real-time monitoring
+• Collect and analyze industrial data
+• Integrate SCADA with PLC systems
+• Monitor plant performance remotely
+• Ensure system reliability and security
+Skills Required
+• SCADA software (Wonderware, WinCC, Ignition)
+• Industrial networking (Modbus, OPC)
+• Data acquisition systems
+• Control systems basics
+
+61. Instrumentation Engineer
+Job Overview
+Focuses on measuring and controlling physical parameters like pressure, temperature, flow,
+and level in industries.
+Responsibilities
+• Install and calibrate sensors and instruments
+
+• Maintain measurement systems
+• Ensure accuracy of industrial sensors
+• Work with control loops and transmitters
+• Troubleshoot instrumentation issues
+Skills Required
+• Sensor technology knowledge
+• Process control basics
+• Calibration techniques
+• Industrial measurement systems
+
+62. Industrial Electronics Engineer
+Job Overview
+Works on electronic systems used in industrial machines and manufacturing environments.
+Responsibilities
+• Design and maintain industrial control circuits
+• Repair and troubleshoot machine electronics
+• Work on motor drives and power systems
+• Ensure system safety and efficiency
+• Support production automation
+Skills Required
+• Power electronics basics
+• Industrial wiring and control panels
+• Circuit troubleshooting
+• Motor control systems
+
+63. Mechatronics Engineer
+Job Overview
+Combines mechanical, electronics, and software engineering to design intelligent automated
+systems.
+Responsibilities
+• Design electro-mechanical systems
+• Integrate sensors, actuators, and controllers
+
+• Develop robotic and automation systems
+• Work on smart machines and CNC systems
+• Improve system efficiency and precision
+Skills Required
+• Mechanical + electronics fundamentals
+• Embedded systems
+• Control systems
+• Robotics basics
+
+64. Robotics Control Engineer
+Job Overview
+Develops control systems for robots used in manufacturing, healthcare, defense, and
+automation industries.
+Responsibilities
+• Design robotic motion control systems
+• Program robot path planning algorithms
+• Integrate sensors for vision and navigation
+• Work with robotic arms and autonomous systems
+• Improve robot accuracy and stability
+Skills Required
+• Robotics kinematics and dynamics
+• Control systems theory
+• Embedded programming
+• AI/vision integration basics
+
+65. Electronics Test Engineer
+Job Overview
+Ensures electronic products and systems function correctly by performing structured testing
+at component and system levels.
+Key Responsibilities
+
+• Conduct functional testing of electronic circuits and devices
+• Develop and execute test plans and test cases
+• Identify hardware/software defects
+• Use test equipment like oscilloscopes, multimeters, signal generators
+• Document test results and failure reports
+Required Skills
+• Electronics fundamentals (analog + digital)
+• Testing tools knowledge
+• Circuit debugging
+• Basic automation testing concepts
+
+66. Hardware Validation Engineer
+Job Overview
+Validates hardware designs to ensure they meet performance, safety, and design
+specifications before mass production.
+Responsibilities
+• Validate prototype hardware systems
+• Perform stress, load, and environmental testing
+• Compare performance with design specifications
+• Identify design weaknesses and improvement areas
+• Collaborate with design engineers for fixes
+Skills Required
+• Hardware architecture understanding
+• Signal analysis
+• Testing methodologies
+• Debugging tools (logic analyzers, oscilloscopes)
+
+67. EMC/EMI Testing Engineer
+Job Overview
+Ensures electronic devices do not emit or get affected by electromagnetic interference.
+Responsibilities
+• Perform EMC (Electromagnetic Compatibility) testing
+
+• Measure EMI emissions and susceptibility
+• Ensure compliance with international standards (CE, FCC, ISO)
+• Design shielding and grounding solutions
+• Prepare compliance certification reports
+Skills Required
+• Electromagnetic theory
+• RF interference basics
+• Testing standards knowledge
+• Shielding techniques
+
+68. Reliability Engineer (Electronics)
+Job Overview
+Ensures electronic systems operate reliably over time under different environmental
+conditions.
+Responsibilities
+• Perform life-cycle testing of electronic systems
+• Analyze failure rates and degradation patterns
+• Improve product durability and lifespan
+• Conduct thermal, vibration, and stress testing
+• Create reliability prediction reports
+Skills Required
+• Reliability engineering concepts
+• Statistical analysis
+• Failure modeling
+• Electronics system knowledge
+
+69. Quality Assurance Engineer (Electronics)
+Job Overview
+Ensures electronic products meet quality standards before reaching customers.
+Responsibilities
+• Define quality control procedures
+• Inspect components and finished products
+
+• Conduct audits and compliance checks
+• Monitor production quality metrics
+• Ensure adherence to ISO/IPC standards
+Skills Required
+• Quality management systems (QMS)
+• Electronics manufacturing knowledge
+• Documentation skills
+• Attention to detail
+
+70. Calibration Engineer
+Job Overview
+Ensures measurement instruments used in electronics and industrial systems are accurate and
+properly calibrated.
+Responsibilities
+• Calibrate electronic testing instruments
+• Maintain calibration records and schedules
+• Verify measurement accuracy
+• Repair or adjust faulty instruments
+• Ensure compliance with calibration standards
+Skills Required
+• Measurement systems knowledge
+• Instrumentation basics
+• Metrology standards
+• Precision testing tools
+
+71. Failure Analysis Engineer
+Job Overview
+Investigates electronic product failures to identify root causes and prevent future issues.
+Responsibilities
+• Analyze failed electronic components
+• Perform root cause analysis (RCA)
+• Use microscopy and imaging tools for defect inspection
+
+• Suggest design or process improvements
+• Prepare failure analysis reports
+Skills Required
+• Semiconductor/electronics failure mechanisms
+• Diagnostic tools usage
+• Analytical thinking
+• Materials and circuit understanding
+
+72. Electronics Production Engineer
+Job Overview
+Responsible for managing and improving the production of electronic products in
+manufacturing environments.
+Key Responsibilities
+• Supervise electronic product assembly and production lines
+• Ensure production targets and efficiency goals are met
+• Troubleshoot production issues and downtime
+• Coordinate with design, quality, and supply chain teams
+• Monitor machine and operator performance
+Required Skills
+• Electronics manufacturing basics
+• Production planning knowledge
+• Problem-solving skills
+• Industrial process understanding
+
+73. SMT Engineer (Surface Mount Technology)
+Job Overview
+Works on automated PCB assembly using SMT machines for placing electronic components
+on boards.
+Responsibilities
+• Operate and maintain SMT machines (pick-and-place systems)
+
+• Program SMT production lines
+• Ensure correct component placement on PCBs
+• Troubleshoot SMT defects (tombstoning, misalignment)
+• Optimize soldering and reflow processes
+Skills Required
+• SMT process knowledge
+• PCB assembly techniques
+• Machine programming basics
+• Soldering & defect analysis
+
+74. PCB Manufacturing Engineer
+Job Overview
+Focuses on manufacturing printed circuit boards used in electronic devices.
+Responsibilities
+• Oversee PCB fabrication processes (etching, layering, drilling)
+• Ensure PCB quality and design compliance
+• Work with chemical and mechanical processes
+• Reduce defects in PCB production
+• Coordinate with design and testing teams
+Skills Required
+• PCB fabrication knowledge
+• Materials and chemical process basics
+• Manufacturing standards
+• Quality control understanding
+
+75. Process Engineer (Electronics Manufacturing)
+Job Overview
+Designs and improves manufacturing processes to increase efficiency and reduce cost.
+Responsibilities
+• Optimize production workflows
+• Improve yield and reduce defects
+• Analyze production bottlenecks
+
+• Implement automation in manufacturing
+• Document process improvements
+Skills Required
+• Process engineering principles
+• Lean manufacturing basics
+• Data analysis skills
+• Electronics production knowledge
+
+76. Assembly Line Engineer
+Job Overview
+Manages assembly lines where electronic products are assembled step-by-step.
+Responsibilities
+• Set up and manage assembly line operations
+• Ensure smooth workflow between stations
+• Monitor productivity and output quality
+• Reduce assembly errors and delays
+• Train operators on assembly procedures
+Skills Required
+• Production line management
+• Electronics assembly knowledge
+• Workflow optimization
+• Basic troubleshooting skills
+
+77. Manufacturing Support Engineer
+Job Overview
+Provides technical support to production teams to ensure uninterrupted manufacturing
+operations.
+Responsibilities
+• Support production machinery and equipment
+• Troubleshoot technical issues in real-time
+• Assist in maintenance and repair activities
+• Coordinate with engineering teams for improvements
+
+• Maintain production documentation
+Skills Required
+• Electronics troubleshooting
+• Equipment handling knowledge
+• Maintenance basics
+• Communication skills
+
+78. Lean Manufacturing Engineer (Electronics)
+Job Overview
+Focuses on improving efficiency by eliminating waste in electronics manufacturing
+processes.
+Responsibilities
+• Implement lean manufacturing techniques (5S, Kaizen, Six Sigma)
+• Reduce production waste and inefficiency
+• Improve cycle time and productivity
+• Analyze manufacturing processes
+• Train staff on lean principles
+Skills Required
+• Lean manufacturing methodologies
+• Data analysis and process optimization
+• Quality improvement tools
+• Industrial engineering basics
+
+79. IoT Solutions Architect
+Job Overview
+Designs complete Internet of Things (IoT) systems that connect hardware devices to cloud
+platforms and software applications.
+Key Responsibilities
+• Design end-to-end IoT architecture (devices → cloud → apps)
+• Integrate sensors, microcontrollers, and communication modules
+
+• Define data flow and communication protocols (MQTT, HTTP, CoAP)
+• Ensure scalability, security, and reliability of IoT systems
+• Work with cloud platforms (AWS IoT, Azure IoT, Google Cloud IoT)
+Required Skills
+• IoT system design
+• Embedded systems + cloud computing
+• Networking fundamentals
+• API and data communication protocols
+
+80. AI Hardware Engineer
+Job Overview
+Develops hardware systems optimized for artificial intelligence applications like machine
+learning, computer vision, and edge AI.
+Responsibilities
+• Design AI-optimized hardware (GPUs, TPUs, NPUs)
+• Optimize hardware for deep learning models
+• Work on AI acceleration chips
+• Collaborate with software ML teams
+• Improve performance, power efficiency, and latency
+Skills Required
+• Digital design + VLSI basics
+• Machine learning fundamentals
+• Hardware acceleration concepts
+• Parallel computing knowledge
+
+81. Edge Computing Engineer
+Job Overview
+Works on computing systems that process data locally on devices instead of sending it to the
+cloud.
+Responsibilities
+• Design edge-based processing systems
+• Reduce latency by local data processing
+
+• Integrate AI models into edge devices
+• Optimize bandwidth and power usage
+• Work with IoT and embedded systems
+Skills Required
+• Embedded systems
+• Cloud + distributed computing
+• AI model deployment
+• Networking basics
+
+82. Cyber-Physical Systems Engineer
+Job Overview
+Designs systems where physical devices and software interact in real time (smart factories,
+autonomous cars, robotics).
+Responsibilities
+• Integrate sensors, actuators, and software systems
+• Develop real-time control systems
+• Ensure safe interaction between physical and digital systems
+• Work on automation and robotics applications
+• Simulate system behavior
+Skills Required
+• Control systems
+• Embedded programming
+• Real-time systems
+• System modeling and simulation
+
+83. Data Acquisition Systems Engineer
+Job Overview
+Develops systems that collect, process, and store real-world data from sensors and industrial
+equipment.
+Responsibilities
+• Design sensor-based data collection systems
+• Process analog and digital signals
+
+• Convert physical signals into digital data
+• Ensure accuracy and real-time data capture
+• Integrate DAQ systems with software platforms
+Skills Required
+• Signal processing basics
+• Sensor technology
+• Embedded systems
+• Data acquisition hardware/software
+
+84. Embedded AI Engineer
+Job Overview
+Combines artificial intelligence with embedded systems to run AI models on edge devices
+like cameras, robots, and smart sensors.
+Responsibilities
+• Deploy AI models on microcontrollers and edge devices
+• Optimize machine learning models for low power systems
+• Work on computer vision and speech recognition systems
+• Integrate AI with embedded hardware
+• Improve real-time inference performance
+Skills Required
+• Machine learning + deep learning
+• Embedded C/C++
+• TensorFlow Lite / PyTorch Mobile
+• Edge AI frameworks
+
+85. Electronics Research Scientist
+Job Overview
+Works in research labs or R&D centers to develop new electronic technologies, systems, and
+innovations.
+Key Responsibilities
+
+• Conduct advanced research in electronics, semiconductors, or communication systems
+• Develop prototypes and experimental systems
+• Publish research papers in journals and conferences
+• Design innovative circuits, devices, or algorithms
+• Collaborate with academic and industrial researchers
+Required Skills
+• Strong electronics fundamentals
+• Research methodology
+• Simulation tools (MATLAB, SPICE, HFSS, etc.)
+• Analytical and problem-solving skills
+
+86. Assistant Professor / Lecturer (Electronics
+Engineering)
+Job Overview
+Teaches electronics engineering subjects in colleges and universities while also engaging in
+research activities.
+Responsibilities
+• Teach subjects like circuits, VLSI, embedded systems, communication
+• Prepare lecture materials and lab experiments
+• Guide student projects and research work
+• Conduct exams, evaluations, and assessments
+• Publish academic research papers
+Skills Required
+• Deep knowledge of electronics engineering subjects
+• Communication and teaching skills
+• Research and academic writing
+• Curriculum development
+
+87. DRDO Scientist (Electronics)
+Job Overview
+Works in the Defence Research and Development Organisation (DRDO) on advanced
+defense electronics systems.
+
+Responsibilities
+• Develop defense-grade electronic systems
+• Work on radar, missile guidance, and communication systems
+• Design secure embedded and RF systems
+• Conduct field testing and validation
+• Collaborate with defense projects and missions
+Skills Required
+• Advanced electronics knowledge
+• Signal processing and RF systems
+• Embedded systems and control systems
+• Security and defense technology understanding
+
+88. ISRO Scientist Engineer (Electronics)
+Job Overview
+Works with the Indian Space Research Organisation (ISRO) on satellite, launch vehicle, and
+space communication systems.
+Responsibilities
+• Design satellite communication systems
+• Develop onboard electronic systems for spacecraft
+• Work on telemetry, tracking, and control systems
+• Ensure reliability in space environments
+• Support mission-critical electronics systems
+Skills Required
+• RF, communication, and satellite systems
+• Embedded systems
+• Control systems engineering
+• High-reliability electronics design
+
+89. PSU Engineer (BHEL, BEL, ONGC, etc.)
+Job Overview
+Works in Public Sector Undertakings (PSUs) on large-scale industrial electronics and power
+systems.
+
+Responsibilities
+• Maintain and design industrial electronic systems
+• Work on power generation and control systems
+• Support automation and instrumentation systems
+• Ensure system safety and reliability
+• Manage plant electronics operations
+Skills Required
+• Industrial electronics knowledge
+• Power systems and control systems
+• Instrumentation basics
+• Electrical safety standards
+
+90. R&D Engineer (Electronics Labs)
+Job Overview
+Works in corporate or industrial R&D labs to develop new electronic products and
+technologies.
+Responsibilities
+• Design and develop new electronic prototypes
+• Test and validate experimental systems
+• Improve existing product designs
+• Work on innovation and product development
+• Collaborate with manufacturing and design teams
+Skills Required
+• Electronics design knowledge
+• Circuit simulation and prototyping
+• Embedded systems or VLSI basics
+• Innovation and analytical thinking
+
+91. Electronics Design Consultant
+Job Overview
+
+Provides expert-level guidance in designing electronic circuits, systems, and products for
+companies, startups, and individuals.
+Key Responsibilities
+• Design and review electronic circuit architectures
+• Optimize product performance, cost, and reliability
+• Solve complex circuit design problems
+• Guide R&D teams in product development
+• Conduct technical feasibility studies
+Required Skills
+• Strong analog and digital electronics knowledge
+• Circuit simulation tools (SPICE, Multisim, LTspice)
+• System-level design thinking
+• Problem-solving expertise
+
+92. PCB Design Freelancer
+Job Overview
+Works independently on printed circuit board (PCB) design projects for clients across
+industries.
+Responsibilities
+• Design PCB layouts from schematics
+• Optimize routing, placement, and layer stack-up
+• Ensure EMI/EMC compliance
+• Generate Gerber files for manufacturing
+• Collaborate with hardware engineers remotely
+Skills Required
+• PCB tools (Altium, KiCad, Eagle)
+• Signal integrity basics
+• Manufacturing design rules
+• Attention to detail
+
+93. Embedded Systems Consultant
+Job Overview
+
+Provides expert solutions for embedded hardware and firmware development projects.
+Responsibilities
+• Develop embedded system architecture
+• Write and optimize firmware code
+• Debug hardware-software integration issues
+• Improve system performance and reliability
+• Guide IoT and device development projects
+Skills Required
+• Embedded C/C++ programming
+• Microcontroller expertise (ARM, AVR, ESP32)
+• RTOS knowledge
+• Hardware debugging tools
+
+94. IoT Solution Consultant
+Job Overview
+Designs complete IoT ecosystems for smart devices, industrial automation, and consumer
+products.
+Responsibilities
+• Design end-to-end IoT architectures
+• Integrate sensors, devices, and cloud systems
+• Develop communication protocols (MQTT, HTTP)
+• Ensure security and scalability
+• Support cloud dashboard integration
+Skills Required
+• IoT platforms (AWS, Azure, Google IoT)
+• Embedded systems knowledge
+• Networking and cloud integration
+• API and data communication
+
+95. Automation Consultant
+Job Overview
+
+Helps industries implement automation systems to improve efficiency and reduce manual
+processes.
+Responsibilities
+• Design industrial automation solutions
+• Recommend PLC, SCADA, and robotics systems
+• Improve manufacturing workflows
+• Troubleshoot automation systems
+• Optimize production efficiency
+Skills Required
+• PLC/SCADA knowledge
+• Industrial automation systems
+• Control systems basics
+• Process engineering understanding
+
+96. Product Prototype Developer
+Job Overview
+Builds functional prototypes of electronic products for startups, inventors, and companies.
+Responsibilities
+• Convert ideas into working prototypes
+• Design circuits and embedded systems
+• Build and test hardware prototypes
+• Iterate product design based on feedback
+• Prepare prototype for manufacturing stage
+Skills Required
+• Circuit design and PCB development
+• Embedded systems knowledge
+• Rapid prototyping tools (Arduino, ESP32)
+• Debugging and testing skills
+
+97. Hardware Troubleshooting Consultant
+Job Overview
+
+Specializes in diagnosing and fixing complex electronic hardware failures for companies and
+individuals.
+Responsibilities
+• Identify faults in electronic systems
+• Repair and optimize hardware performance
+• Analyze circuit failures and root causes
+• Provide redesign recommendations
+• Support field troubleshooting
+Skills Required
+• Strong electronics debugging skills
+• Oscilloscope and test equipment usage
+• Circuit analysis expertise
+• Failure analysis knowledge
+
+98. AI Hardware Engineer
+Job Overview
+Designs specialized hardware that accelerates artificial intelligence workloads such as
+machine learning, computer vision, and deep learning.
+Key Responsibilities
+• Design AI acceleration architectures (GPU/TPU/NPU systems)
+• Optimize hardware for neural network performance
+• Improve power efficiency and processing speed
+• Collaborate with AI/ML software teams for model deployment
+• Develop edge AI and data center hardware solutions
+Required Skills
+• Digital design & VLSI fundamentals
+• Machine learning basics
+• Computer architecture (parallel processing)
+• Hardware optimization techniques
+
+99. Quantum Electronics Engineer
+
+Job Overview
+Works on electronic systems used in quantum computing, quantum communication, and
+quantum sensing technologies.
+Responsibilities
+• Design ultra-low noise control electronics for qubits
+• Develop superconducting and cryogenic circuits
+• Support quantum experiments and lab setups
+• Improve signal stability and coherence times
+• Work with quantum measurement systems
+Skills Required
+• Quantum physics fundamentals
+• Advanced analog/digital electronics
+• Cryogenic and low-noise circuit design
+• Signal processing at extreme precision
+
+100. Neuromorphic Chip Engineer
+Job Overview
+Designs brain-inspired chips that mimic neural networks for ultra-low-power intelligent
+computing.
+Responsibilities
+• Develop neuromorphic chip architectures
+• Design spiking neural networks (SNN hardware)
+• Optimize AI processing for energy efficiency
+• Work on event-driven computing systems
+• Simulate brain-like processing models
+Skills Required
+• VLSI design & digital systems
+• Neural networks & AI fundamentals
+• Computer architecture
+• Low-power chip design techniques
+
+101. EV Charging Systems Engineer
+
+Job Overview
+Designs and develops fast, safe, and efficient electric vehicle charging infrastructure.
+Responsibilities
+• Design AC/DC fast charging systems
+• Develop power conversion and protection circuits
+• Optimize charging efficiency and speed
+• Ensure grid compatibility and load balancing
+• Work on smart charging and billing systems
+Skills Required
+• Power electronics fundamentals
+• High-voltage system design
+• Battery charging technologies
+• Electrical safety standards
+
+102. Smart Sensor Systems Engineer
+Job Overview
+Develops intelligent sensors that can process, analyze, and transmit data in real time.
+Responsibilities
+• Design smart sensor circuits with embedded processing
+• Integrate AI/ML at sensor level (edge intelligence)
+• Develop multi-sensor fusion systems
+• Improve accuracy, sensitivity, and energy efficiency
+• Work on IoT-enabled sensing devices
+Skills Required
+• Sensor technology fundamentals
+• Embedded systems
+• Signal processing basics
+• IoT communication protocols
+
+103. Wearable Electronics Engineer
+Job Overview
+
+Designs compact, low-power electronics used in wearable devices like smartwatches, fitness
+trackers, and medical sensors.
+Responsibilities
+• Design ultra-low-power electronic circuits
+• Integrate biometric and health sensors
+• Optimize battery life and device miniaturization
+• Develop wireless connectivity systems (BLE, NFC)
+• Ensure comfort, safety, and reliability
+Skills Required
+• Low-power electronics design
+• Embedded systems programming
+• Biomedical sensor basics
+• Miniaturization techniques
+
+104. Space Electronics Engineer
+Job Overview
+Develops high-reliability electronic systems used in satellites, spacecraft, and space
+exploration missions.
+Responsibilities
+• Design radiation-hardened electronic circuits
+• Develop satellite communication and control systems
+• Ensure reliability in extreme space conditions
+• Work on telemetry and tracking systems
+• Test components for space qualification
+Skills Required
+• RF and communication systems
+• High-reliability electronics design
+• Space environment effects on electronics
+• Aerospace systems fundamentals
+
+105. Robotics AI Hardware Engineer
+Job Overview
+
+Combines robotics, AI, and hardware engineering to develop intelligent autonomous robotic
+systems.
+Responsibilities
+• Design hardware for robotic systems
+• Integrate AI processors into robots
+• Develop real-time control and vision systems
+• Work on sensor fusion and navigation systems
+• Optimize robotic performance and autonomy
+Skills Required
+• Robotics fundamentals
+• AI/ML basics
+• Embedded systems & control systems
+• Computer vision & sensor integration

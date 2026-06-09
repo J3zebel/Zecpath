@@ -1,0 +1,14 @@
+PCB Design Trainee
+
+Job Overview
+Focused on learning printed circuit board design and layout creation for electronic devices.
+Responsibilities
+• Assist in PCB schematic creation
+• Learn PCB layout design tools
+• Place components and route circuits
+• Support prototype PCB testing
+• Ensure design follows industry standards
+Skills Required
+• PCB design software (Altium, KiCad, Eagle)
+• Basic circuit theory
+• Attention to detail

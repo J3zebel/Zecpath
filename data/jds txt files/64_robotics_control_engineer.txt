@@ -1,0 +1,16 @@
+Robotics Control Engineer
+
+Job Overview
+Develops control systems for robots used in manufacturing, healthcare, defense, and
+automation industries.
+Responsibilities
+• Design robotic motion control systems
+• Program robot path planning algorithms
+• Integrate sensors for vision and navigation
+• Work with robotic arms and autonomous systems
+• Improve robot accuracy and stability
+Skills Required
+• Robotics kinematics and dynamics
+• Control systems theory
+• Embedded programming
+• AI/vision integration basics

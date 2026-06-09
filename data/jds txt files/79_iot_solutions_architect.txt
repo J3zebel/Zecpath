@@ -1,0 +1,17 @@
+IoT Solutions Architect
+
+Job Overview
+Designs complete Internet of Things (IoT) systems that connect hardware devices to cloud
+platforms and software applications.
+Key Responsibilities
+• Design end-to-end IoT architecture (devices → cloud → apps)
+• Integrate sensors, microcontrollers, and communication modules
+
+• Define data flow and communication protocols (MQTT, HTTP, CoAP)
+• Ensure scalability, security, and reliability of IoT systems
+• Work with cloud platforms (AWS IoT, Azure IoT, Google Cloud IoT)
+Required Skills
+• IoT system design
+• Embedded systems + cloud computing
+• Networking fundamentals
+• API and data communication protocols

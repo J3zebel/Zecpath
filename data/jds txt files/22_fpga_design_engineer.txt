@@ -1,0 +1,14 @@
+FPGA Design Engineer
+
+Job Overview
+Implements digital systems using FPGA hardware platforms.
+Responsibilities
+• Program FPGA using HDL
+• Design real-time processing systems
+• Test hardware logic implementation
+• Optimize performance and speed
+
+Skills Required
+• Verilog/VHDL
+• FPGA tools (Xilinx, Intel Quartus)
+• Digital system design

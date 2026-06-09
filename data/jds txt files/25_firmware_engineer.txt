@@ -1,0 +1,15 @@
+Firmware Engineer
+
+Job Overview
+Develops low-level software that directly controls hardware components.
+Responsibilities
+• Write and optimize firmware code
+• Interface hardware drivers with software
+• Debug device-level issues
+• Update firmware for product enhancements
+• Ensure real-time performance
+Skills Required
+• C programming (strong)
+• Device driver basics
+• Memory management
+• Embedded debugging tools

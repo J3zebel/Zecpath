@@ -1,0 +1,16 @@
+IoT Solution Consultant
+
+Job Overview
+Designs complete IoT ecosystems for smart devices, industrial automation, and consumer
+products.
+Responsibilities
+• Design end-to-end IoT architectures
+• Integrate sensors, devices, and cloud systems
+• Develop communication protocols (MQTT, HTTP)
+• Ensure security and scalability
+• Support cloud dashboard integration
+Skills Required
+• IoT platforms (AWS, Azure, Google IoT)
+• Embedded systems knowledge
+• Networking and cloud integration
+• API and data communication

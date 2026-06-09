@@ -1,0 +1,15 @@
+Smart Sensor Systems Engineer
+
+Job Overview
+Develops intelligent sensors that can process, analyze, and transmit data in real time.
+Responsibilities
+• Design smart sensor circuits with embedded processing
+• Integrate AI/ML at sensor level (edge intelligence)
+• Develop multi-sensor fusion systems
+• Improve accuracy, sensitivity, and energy efficiency
+• Work on IoT-enabled sensing devices
+Skills Required
+• Sensor technology fundamentals
+• Embedded systems
+• Signal processing basics
+• IoT communication protocols

@@ -1,0 +1,17 @@
+Hardware Troubleshooting Consultant
+
+Job Overview
+
+Specializes in diagnosing and fixing complex electronic hardware failures for companies and
+individuals.
+Responsibilities
+• Identify faults in electronic systems
+• Repair and optimize hardware performance
+• Analyze circuit failures and root causes
+• Provide redesign recommendations
+• Support field troubleshooting
+Skills Required
+• Strong electronics debugging skills
+• Oscilloscope and test equipment usage
+• Circuit analysis expertise
+• Failure analysis knowledge

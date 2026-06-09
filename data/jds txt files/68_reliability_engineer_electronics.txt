@@ -1,0 +1,16 @@
+Reliability Engineer (Electronics)
+
+Job Overview
+Ensures electronic systems operate reliably over time under different environmental
+conditions.
+Responsibilities
+• Perform life-cycle testing of electronic systems
+• Analyze failure rates and degradation patterns
+• Improve product durability and lifespan
+• Conduct thermal, vibration, and stress testing
+• Create reliability prediction reports
+Skills Required
+• Reliability engineering concepts
+• Statistical analysis
+• Failure modeling
+• Electronics system knowledge

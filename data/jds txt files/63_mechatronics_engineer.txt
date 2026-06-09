@@ -1,0 +1,17 @@
+Mechatronics Engineer
+
+Job Overview
+Combines mechanical, electronics, and software engineering to design intelligent automated
+systems.
+Responsibilities
+• Design electro-mechanical systems
+• Integrate sensors, actuators, and controllers
+
+• Develop robotic and automation systems
+• Work on smart machines and CNC systems
+• Improve system efficiency and precision
+Skills Required
+• Mechanical + electronics fundamentals
+• Embedded systems
+• Control systems
+• Robotics basics

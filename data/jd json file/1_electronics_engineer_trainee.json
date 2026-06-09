@@ -1,0 +1,65 @@
+{
+  "job_title": "Electronics Engineer (Trainee)",
+  "company_info": {
+    "name": "Generic Electronics Corporation",
+    "industry": "Semiconductors & Electronics Manufacturing",
+    "description": "A pioneering engineering firm specializing in advanced electronic design and systems."
+  },
+  "location": {
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "is_remote": false,
+    "remote_type": "On-site"
+  },
+  "employment_type": "Full-time",
+  "experience_required": {
+    "min_years": 0,
+    "max_years": 1
+  },
+  "responsibilities": [
+    "Assist in electronic circuit assembly and testing",
+    "Support senior engineers in design and development tasks",
+    "Perform basic troubleshooting of electronic systems",
+    "Study schematics and technical drawings",
+    "Participate in lab experiments and prototype development"
+  ],
+  "mandatory_skills": [
+    {
+      "name": "Analog Electronics",
+      "level": "Beginner",
+      "years_of_experience": 0
+    },
+    {
+      "name": "Circuit fundamentals",
+      "level": "Beginner",
+      "years_of_experience": 0
+    },
+    {
+      "name": "PCB Design",
+      "level": "Beginner",
+      "years_of_experience": 0
+    },
+    {
+      "name": "Willingness to learn",
+      "level": "Beginner",
+      "years_of_experience": 0
+    }
+  ],
+  "preferred_skills": [],
+  "education_requirements": [
+    "Bachelor of Engineering (B.E.) or Bachelor of Technology (B.Tech.) in Electronics & Communication, Electrical Engineering, or related discipline."
+  ],
+  "salary_range": {
+    "min": 35000,
+    "max": 55000,
+    "currency": "USD",
+    "period": "Yearly"
+  },
+  "benefits": [
+    "Health Insurance",
+    "Paid Time Off (PTO)",
+    "Professional Development Assistance",
+    "Mentorship & Training Programs"
+  ]
+}

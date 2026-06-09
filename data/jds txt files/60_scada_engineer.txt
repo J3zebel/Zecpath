@@ -1,0 +1,16 @@
+SCADA Engineer
+
+Job Overview
+Designs and maintains SCADA (Supervisory Control and Data Acquisition) systems for
+monitoring industrial processes.
+Responsibilities
+• Develop SCADA dashboards for real-time monitoring
+• Collect and analyze industrial data
+• Integrate SCADA with PLC systems
+• Monitor plant performance remotely
+• Ensure system reliability and security
+Skills Required
+• SCADA software (Wonderware, WinCC, Ignition)
+• Industrial networking (Modbus, OPC)
+• Data acquisition systems
+• Control systems basics

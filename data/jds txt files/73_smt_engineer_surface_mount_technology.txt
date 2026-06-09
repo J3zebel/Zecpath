@@ -1,0 +1,17 @@
+SMT Engineer (Surface Mount Technology)
+
+Job Overview
+Works on automated PCB assembly using SMT machines for placing electronic components
+on boards.
+Responsibilities
+• Operate and maintain SMT machines (pick-and-place systems)
+
+• Program SMT production lines
+• Ensure correct component placement on PCBs
+• Troubleshoot SMT defects (tombstoning, misalignment)
+• Optimize soldering and reflow processes
+Skills Required
+• SMT process knowledge
+• PCB assembly techniques
+• Machine programming basics
+• Soldering & defect analysis

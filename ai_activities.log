@@ -316,3 +316,19 @@ RuntimeError: Failed to extract text from PDF data\resumes\resume9.pdf: Bounding
 2026-06-09 12:15:50,095 - parsers.extractor - INFO - Saved structured JSON to data\json\Swathi_V__Org_ (4)_structured.json
 2026-06-09 12:15:50,106 - extraction_pipeline - INFO - Pipeline finished. Success rate: 100.00%. Report saved to data\json\extraction_report.json
 2026-06-09 12:16:13,983 - tests.test_extractor - INFO - Successfully started Resume Extraction Engine tests.
+2026-06-09 12:42:25,494 - tests.test_extractor - INFO - Successfully started Resume Extraction Engine tests.
+2026-06-09 12:47:54,875 - tests.test_extractor - INFO - Successfully started Resume Extraction Engine tests.
+2026-06-09 12:49:27,744 - tests.test_extractor - INFO - Successfully started Resume Extraction Engine tests.
+2026-06-09 12:49:47,722 - jd_parsing_pipeline - INFO - Starting JD pipeline execution for 1 files.
+2026-06-09 12:49:48,277 - jd_parsing_pipeline - INFO - JD Pipeline finished. Success rate: 100.00%. Report saved to data\json\jd_parsing_report.json
+2026-06-09 12:51:32,807 - tests.test_extractor - INFO - Successfully started Resume Extraction Engine tests.
+2026-06-09 12:51:47,359 - jd_parsing_pipeline - INFO - Starting JD pipeline execution for 1 files.
+2026-06-09 12:51:47,931 - jd_parsing_pipeline - INFO - JD Pipeline finished. Success rate: 100.00%. Report saved to data\json\jd_parsing_report.json
+2026-06-09 13:04:05,433 - jd_parsing_pipeline - INFO - Found 1 consolidated JD files to split.
+2026-06-09 13:04:05,497 - jd_parsing_pipeline - INFO - Generated 105 text files in data\jds txt files.
+2026-06-09 13:04:05,497 - jd_parsing_pipeline - INFO - Converting 105 individual text files to JSON.
+2026-06-09 13:04:25,887 - tests.test_extractor - INFO - Successfully started Resume Extraction Engine tests.
+2026-06-09 13:06:09,838 - tests.test_extractor - INFO - Successfully started Resume Extraction Engine tests.
+2026-06-09 13:06:15,109 - jd_parsing_pipeline - INFO - Found 1 consolidated JD files to split.
+2026-06-09 13:06:15,167 - jd_parsing_pipeline - INFO - Generated 105 text files in data\jds txt files.
+2026-06-09 13:06:15,171 - jd_parsing_pipeline - INFO - Converting 105 individual text files to JSON.

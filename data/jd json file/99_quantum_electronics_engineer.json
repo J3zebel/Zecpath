@@ -1,0 +1,60 @@
+{
+  "job_title": "Quantum Electronics Engineer",
+  "company_info": {
+    "name": "Generic Electronics Corporation",
+    "industry": "Semiconductors & Electronics Manufacturing",
+    "description": "A pioneering engineering firm specializing in advanced electronic design and systems."
+  },
+  "location": {
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "is_remote": false,
+    "remote_type": "On-site"
+  },
+  "employment_type": "Full-time",
+  "experience_required": {
+    "min_years": 2,
+    "max_years": 5
+  },
+  "responsibilities": [
+    "Design ultra-low noise control electronics for qubits",
+    "Develop superconducting and cryogenic circuits",
+    "Support quantum experiments and lab setups",
+    "Improve signal stability and coherence times",
+    "Work with quantum measurement systems"
+  ],
+  "mandatory_skills": [
+    {
+      "name": "Quantum Electronics",
+      "level": "Intermediate",
+      "years_of_experience": 2
+    },
+    {
+      "name": "Analog Electronics",
+      "level": "Intermediate",
+      "years_of_experience": 2
+    },
+    {
+      "name": "Digital Signal Processing (DSP)",
+      "level": "Intermediate",
+      "years_of_experience": 2
+    }
+  ],
+  "preferred_skills": [],
+  "education_requirements": [
+    "Master's or Ph.D. in Electronics Engineering, Physics, or a closely related quantitative field."
+  ],
+  "salary_range": {
+    "min": 65000,
+    "max": 95000,
+    "currency": "USD",
+    "period": "Yearly"
+  },
+  "benefits": [
+    "Health Insurance",
+    "Paid Time Off (PTO)",
+    "Professional Development Assistance",
+    "Performance Bonus"
+  ]
+}

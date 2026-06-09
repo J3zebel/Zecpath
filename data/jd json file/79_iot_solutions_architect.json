@@ -1,0 +1,67 @@
+{
+  "job_title": "IoT Solutions Architect",
+  "company_info": {
+    "name": "Generic Electronics Corporation",
+    "industry": "Semiconductors & Electronics Manufacturing",
+    "description": "A pioneering engineering firm specializing in advanced electronic design and systems."
+  },
+  "location": {
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "is_remote": false,
+    "remote_type": "On-site"
+  },
+  "employment_type": "Full-time",
+  "experience_required": {
+    "min_years": 8,
+    "max_years": 12
+  },
+  "responsibilities": [
+    "Design end-to-end IoT architecture (devices → cloud → apps)",
+    "Integrate sensors, microcontrollers, and communication modules",
+    "Define data flow and communication protocols (MQTT, HTTP, CoAP)",
+    "Ensure scalability, security, and reliability of IoT systems",
+    "Work with cloud platforms (AWS IoT, Azure IoT, Google Cloud IoT)"
+  ],
+  "mandatory_skills": [
+    {
+      "name": "IoT & Sensor Integration",
+      "level": "Advanced",
+      "years_of_experience": 5
+    },
+    {
+      "name": "Embedded systems + cloud computing",
+      "level": "Advanced",
+      "years_of_experience": 5
+    },
+    {
+      "name": "Networking fundamentals",
+      "level": "Advanced",
+      "years_of_experience": 5
+    },
+    {
+      "name": "API and data communication protocols",
+      "level": "Advanced",
+      "years_of_experience": 5
+    }
+  ],
+  "preferred_skills": [],
+  "education_requirements": [
+    "Bachelor's degree in Electronics Engineering, Electrical Engineering, Computer Science, or a related technical field."
+  ],
+  "salary_range": {
+    "min": 135000,
+    "max": 180000,
+    "currency": "USD",
+    "period": "Yearly"
+  },
+  "benefits": [
+    "Health Insurance",
+    "Paid Time Off (PTO)",
+    "Professional Development Assistance",
+    "Performance Bonus",
+    "Retirement Matching (401k)",
+    "Flexible Schedule"
+  ]
+}

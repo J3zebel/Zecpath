@@ -1,0 +1,15 @@
+Chip Layout Engineer
+
+Job Overview
+Designs the physical arrangement of transistors and components inside a chip.
+Responsibilities
+• Create IC layout diagrams
+• Ensure correct transistor placement
+• Optimize silicon area usage
+• Maintain design rule compliance (DRC)
+• Work with fabrication guidelines
+Skills Required
+• CMOS design fundamentals
+• Layout tools (Cadence Virtuoso)
+• Semiconductor device physics
+• Precision design skills

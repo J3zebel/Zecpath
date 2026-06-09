@@ -1,0 +1,65 @@
+{
+  "job_title": "Data Acquisition Systems Engineer",
+  "company_info": {
+    "name": "Generic Electronics Corporation",
+    "industry": "Semiconductors & Electronics Manufacturing",
+    "description": "A pioneering engineering firm specializing in advanced electronic design and systems."
+  },
+  "location": {
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "is_remote": false,
+    "remote_type": "On-site"
+  },
+  "employment_type": "Full-time",
+  "experience_required": {
+    "min_years": 2,
+    "max_years": 5
+  },
+  "responsibilities": [
+    "Design sensor-based data collection systems",
+    "Process analog and digital signals",
+    "Convert physical signals into digital data",
+    "Ensure accuracy and real-time data capture",
+    "Integrate DAQ systems with software platforms"
+  ],
+  "mandatory_skills": [
+    {
+      "name": "Digital Signal Processing (DSP)",
+      "level": "Intermediate",
+      "years_of_experience": 2
+    },
+    {
+      "name": "IoT & Sensor Integration",
+      "level": "Intermediate",
+      "years_of_experience": 2
+    },
+    {
+      "name": "Embedded systems",
+      "level": "Intermediate",
+      "years_of_experience": 2
+    },
+    {
+      "name": "Data acquisition hardware/software",
+      "level": "Intermediate",
+      "years_of_experience": 2
+    }
+  ],
+  "preferred_skills": [],
+  "education_requirements": [
+    "Bachelor's degree in Electronics Engineering, Electrical Engineering, Computer Science, or a related technical field."
+  ],
+  "salary_range": {
+    "min": 65000,
+    "max": 95000,
+    "currency": "USD",
+    "period": "Yearly"
+  },
+  "benefits": [
+    "Health Insurance",
+    "Paid Time Off (PTO)",
+    "Professional Development Assistance",
+    "Performance Bonus"
+  ]
+}

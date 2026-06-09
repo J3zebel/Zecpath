@@ -1,0 +1,14 @@
+Power Electronics Engineer
+
+Job Overview
+Works on high-power systems for energy conversion and control.
+Responsibilities
+• Design converters (AC-DC, DC-DC, DC-AC)
+• Develop motor control circuits
+• Work on EV, solar, and battery systems
+• Improve energy efficiency
+
+Skills Required
+• Power semiconductors (MOSFET, IGBT)
+• Electrical machine basics
+• Power system analysis

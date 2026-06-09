@@ -1,0 +1,16 @@
+VLSI Design Engineer
+
+Job Overview
+Designs integrated circuits (ICs) used in electronic systems such as processors, memory
+devices, and SoCs (System on Chip).
+Key Responsibilities
+• Design digital circuits using RTL coding (Verilog/VHDL)
+• Develop system-level chip architecture
+• Perform simulation and functional verification
+• Optimize chip performance, power, and area (PPA)
+• Collaborate with verification and physical design teams
+Required Skills
+• Verilog / VHDL
+• Digital electronics fundamentals
+• RTL design concepts
+• EDA tools (Cadence, Synopsys)

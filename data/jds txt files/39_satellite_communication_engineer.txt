@@ -1,0 +1,16 @@
+Satellite Communication Engineer
+
+Job Overview
+Designs and manages satellite-based communication systems used for broadcasting,
+navigation, and defense.
+Responsibilities
+• Design satellite communication links
+• Work on uplink/downlink signal systems
+• Maintain satellite ground stations
+• Optimize transmission power and frequency usage
+• Ensure reliable long-distance communication
+Skills Required
+• RF and microwave engineering
+• Orbital mechanics basics
+• Communication theory
+• Satellite link budgeting

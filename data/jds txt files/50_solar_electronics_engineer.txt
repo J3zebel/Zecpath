@@ -1,0 +1,15 @@
+Solar Electronics Engineer
+
+Job Overview
+Works on electronic systems used in solar energy generation and conversion systems.
+Responsibilities
+• Design solar inverter and MPPT systems
+• Optimize solar power conversion efficiency
+• Integrate solar panels with power electronics systems
+• Test solar charge controllers
+• Monitor energy output systems
+Skills Required
+• Solar PV systems knowledge
+• MPPT algorithms
+• Power conversion systems
+• Electrical energy basics

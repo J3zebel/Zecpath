@@ -1,0 +1,16 @@
+ISRO Scientist Engineer (Electronics)
+
+Job Overview
+Works with the Indian Space Research Organisation (ISRO) on satellite, launch vehicle, and
+space communication systems.
+Responsibilities
+• Design satellite communication systems
+• Develop onboard electronic systems for spacecraft
+• Work on telemetry, tracking, and control systems
+• Ensure reliability in space environments
+• Support mission-critical electronics systems
+Skills Required
+• RF, communication, and satellite systems
+• Embedded systems
+• Control systems engineering
+• High-reliability electronics design

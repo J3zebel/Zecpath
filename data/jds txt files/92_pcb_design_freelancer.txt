@@ -1,0 +1,16 @@
+PCB Design Freelancer
+
+Job Overview
+Works independently on printed circuit board (PCB) design projects for clients across
+industries.
+Responsibilities
+• Design PCB layouts from schematics
+• Optimize routing, placement, and layer stack-up
+• Ensure EMI/EMC compliance
+• Generate Gerber files for manufacturing
+• Collaborate with hardware engineers remotely
+Skills Required
+• PCB tools (Altium, KiCad, Eagle)
+• Signal integrity basics
+• Manufacturing design rules
+• Attention to detail

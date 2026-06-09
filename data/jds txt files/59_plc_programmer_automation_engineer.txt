@@ -1,0 +1,16 @@
+PLC Programmer (Automation Engineer)
+
+Job Overview
+Programs Programmable Logic Controllers (PLCs) used in factories for machine automation.
+Responsibilities
+• Write PLC ladder logic programs
+
+• Configure industrial machines and sensors
+• Debug automation control systems
+• Develop sequence control logic
+• Interface PLC with SCADA systems
+Skills Required
+• PLC programming (Siemens, Allen-Bradley, Delta)
+• Ladder logic, FBD, STL
+• Industrial automation systems
+• Electrical wiring knowledge

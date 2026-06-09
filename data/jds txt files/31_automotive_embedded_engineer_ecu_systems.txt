@@ -1,0 +1,16 @@
+Automotive Embedded Engineer (ECU Systems)
+
+Job Overview
+Designs embedded systems used in vehicles (Engine Control Units, infotainment, safety
+systems).
+Responsibilities
+• Develop ECU software systems
+• Work on CAN, LIN, and automotive protocols
+• Ensure safety compliance (ISO 26262)
+• Test automotive embedded systems
+• Debug real-time vehicle systems
+Skills Required
+• Automotive communication protocols
+• Embedded C programming
+• CAN/LIN bus knowledge
+• Safety standards understanding

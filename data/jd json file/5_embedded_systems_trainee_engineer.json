@@ -1,0 +1,60 @@
+{
+  "job_title": "Embedded Systems Trainee Engineer",
+  "company_info": {
+    "name": "Generic Electronics Corporation",
+    "industry": "Semiconductors & Electronics Manufacturing",
+    "description": "A pioneering engineering firm specializing in advanced electronic design and systems."
+  },
+  "location": {
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "is_remote": false,
+    "remote_type": "On-site"
+  },
+  "employment_type": "Full-time",
+  "experience_required": {
+    "min_years": 0,
+    "max_years": 1
+  },
+  "responsibilities": [
+    "Assist in coding embedded C programs",
+    "Work with microcontrollers (Arduino, STM32, PIC)",
+    "Test embedded hardware systems",
+    "Debug firmware issues",
+    "Support IoT device development"
+  ],
+  "mandatory_skills": [
+    {
+      "name": "Embedded C/C++",
+      "level": "Beginner",
+      "years_of_experience": 0
+    },
+    {
+      "name": "Microcontrollers",
+      "level": "Beginner",
+      "years_of_experience": 0
+    },
+    {
+      "name": "IoT & Sensor Integration",
+      "level": "Beginner",
+      "years_of_experience": 0
+    }
+  ],
+  "preferred_skills": [],
+  "education_requirements": [
+    "Bachelor of Engineering (B.E.) or Bachelor of Technology (B.Tech.) in Electronics & Communication, Electrical Engineering, or related discipline."
+  ],
+  "salary_range": {
+    "min": 35000,
+    "max": 55000,
+    "currency": "USD",
+    "period": "Yearly"
+  },
+  "benefits": [
+    "Health Insurance",
+    "Paid Time Off (PTO)",
+    "Professional Development Assistance",
+    "Mentorship & Training Programs"
+  ]
+}

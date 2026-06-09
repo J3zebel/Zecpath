@@ -1,0 +1,17 @@
+Robotics AI Hardware Engineer
+
+Job Overview
+
+Combines robotics, AI, and hardware engineering to develop intelligent autonomous robotic
+systems.
+Responsibilities
+• Design hardware for robotic systems
+• Integrate AI processors into robots
+• Develop real-time control and vision systems
+• Work on sensor fusion and navigation systems
+• Optimize robotic performance and autonomy
+Skills Required
+• Robotics fundamentals
+• AI/ML basics
+• Embedded systems & control systems
+• Computer vision & sensor integration

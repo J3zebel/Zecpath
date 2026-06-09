@@ -1,0 +1,17 @@
+Wearable Electronics Engineer
+
+Job Overview
+
+Designs compact, low-power electronics used in wearable devices like smartwatches, fitness
+trackers, and medical sensors.
+Responsibilities
+• Design ultra-low-power electronic circuits
+• Integrate biometric and health sensors
+• Optimize battery life and device miniaturization
+• Develop wireless connectivity systems (BLE, NFC)
+• Ensure comfort, safety, and reliability
+Skills Required
+• Low-power electronics design
+• Embedded systems programming
+• Biomedical sensor basics
+• Miniaturization techniques

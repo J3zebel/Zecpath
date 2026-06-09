@@ -1,0 +1,15 @@
+Embedded Systems Trainee Engineer
+
+Job Overview
+Works on microcontrollers and embedded system development under guidance.
+
+Responsibilities
+• Assist in coding embedded C programs
+• Work with microcontrollers (Arduino, STM32, PIC)
+• Test embedded hardware systems
+• Debug firmware issues
+• Support IoT device development
+Skills Required
+• Embedded C programming
+• Basic microcontroller knowledge
+• Understanding of sensors & actuators

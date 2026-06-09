@@ -1,0 +1,15 @@
+Verification Engineer (VLSI)
+
+Job Overview
+Ensures that chip designs function correctly before manufacturing.
+Responsibilities
+• Write test benches for RTL verification
+• Perform functional and regression testing
+• Identify and debug design errors
+• Use simulation tools for verification
+• Ensure design meets specifications
+Skills Required
+• SystemVerilog / Verilog
+• UVM (Universal Verification Methodology)
+• Simulation tools (ModelSim, VCS)
+• Strong debugging skills

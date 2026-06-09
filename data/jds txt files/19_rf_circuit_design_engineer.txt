@@ -1,0 +1,13 @@
+RF Circuit Design Engineer
+
+Job Overview
+Designs circuits that operate at radio frequency for wireless communication systems.
+Responsibilities
+• Design RF amplifiers, oscillators, and filters
+• Work on antennas and transmission systems
+• Analyze signal propagation and interference
+• Test RF performance using spectrum analyzers
+Skills Required
+• Electromagnetics basics
+• High-frequency circuit design
+• RF simulation tools (ADS, HFSS)

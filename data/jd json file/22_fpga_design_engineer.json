@@ -1,0 +1,59 @@
+{
+  "job_title": "FPGA Design Engineer",
+  "company_info": {
+    "name": "Generic Electronics Corporation",
+    "industry": "Semiconductors & Electronics Manufacturing",
+    "description": "A pioneering engineering firm specializing in advanced electronic design and systems."
+  },
+  "location": {
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "is_remote": false,
+    "remote_type": "On-site"
+  },
+  "employment_type": "Full-time",
+  "experience_required": {
+    "min_years": 2,
+    "max_years": 5
+  },
+  "responsibilities": [
+    "Program FPGA using HDL",
+    "Design real-time processing systems",
+    "Test hardware logic implementation",
+    "Optimize performance and speed"
+  ],
+  "mandatory_skills": [
+    {
+      "name": "VLSI & IC Design",
+      "level": "Intermediate",
+      "years_of_experience": 2
+    },
+    {
+      "name": "FPGA Design",
+      "level": "Intermediate",
+      "years_of_experience": 2
+    },
+    {
+      "name": "Digital Electronics",
+      "level": "Intermediate",
+      "years_of_experience": 2
+    }
+  ],
+  "preferred_skills": [],
+  "education_requirements": [
+    "Bachelor's degree in Electronics Engineering, Electrical Engineering, Computer Science, or a related technical field."
+  ],
+  "salary_range": {
+    "min": 65000,
+    "max": 95000,
+    "currency": "USD",
+    "period": "Yearly"
+  },
+  "benefits": [
+    "Health Insurance",
+    "Paid Time Off (PTO)",
+    "Professional Development Assistance",
+    "Performance Bonus"
+  ]
+}

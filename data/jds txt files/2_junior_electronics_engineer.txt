@@ -1,0 +1,15 @@
+Junior Electronics Engineer
+
+Job Overview
+Handles basic design, testing, and maintenance tasks in electronics projects under guidance of
+senior engineers.
+Responsibilities
+• Assist in PCB design and circuit debugging
+• Perform hardware testing and validation
+• Maintain technical documentation
+• Support product development cycles
+• Troubleshoot hardware issues
+Skills Required
+• Analog & digital electronics basics
+• PCB design knowledge (Altium/Eagle preferred)
+• Basic testing tools (multimeter, oscilloscope)

@@ -1,0 +1,16 @@
+Embedded Software Engineer
+
+Job Overview
+Focuses on software development for embedded devices and smart systems.
+Responsibilities
+• Develop embedded application software
+• Work on OS-level integration (Linux/RTOS)
+• Optimize system performance
+• Collaborate with hardware teams
+• Maintain software documentation
+Skills Required
+• C/C++ programming
+• Linux basics
+
+• Embedded Linux tools
+• System-level debugging

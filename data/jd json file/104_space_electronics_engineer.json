@@ -1,0 +1,65 @@
+{
+  "job_title": "Space Electronics Engineer",
+  "company_info": {
+    "name": "Generic Electronics Corporation",
+    "industry": "Semiconductors & Electronics Manufacturing",
+    "description": "A pioneering engineering firm specializing in advanced electronic design and systems."
+  },
+  "location": {
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "is_remote": false,
+    "remote_type": "On-site"
+  },
+  "employment_type": "Full-time",
+  "experience_required": {
+    "min_years": 2,
+    "max_years": 5
+  },
+  "responsibilities": [
+    "Design radiation-hardened electronic circuits",
+    "Develop satellite communication and control systems",
+    "Ensure reliability in extreme space conditions",
+    "Work on telemetry and tracking systems",
+    "Test components for space qualification"
+  ],
+  "mandatory_skills": [
+    {
+      "name": "RF and communication systems",
+      "level": "Intermediate",
+      "years_of_experience": 2
+    },
+    {
+      "name": "High-reliability electronics design",
+      "level": "Intermediate",
+      "years_of_experience": 2
+    },
+    {
+      "name": "Space environment effects on electronics",
+      "level": "Intermediate",
+      "years_of_experience": 2
+    },
+    {
+      "name": "Aerospace systems fundamentals",
+      "level": "Intermediate",
+      "years_of_experience": 2
+    }
+  ],
+  "preferred_skills": [],
+  "education_requirements": [
+    "Bachelor's degree in Electronics Engineering, Electrical Engineering, Computer Science, or a related technical field."
+  ],
+  "salary_range": {
+    "min": 65000,
+    "max": 95000,
+    "currency": "USD",
+    "period": "Yearly"
+  },
+  "benefits": [
+    "Health Insurance",
+    "Paid Time Off (PTO)",
+    "Professional Development Assistance",
+    "Performance Bonus"
+  ]
+}

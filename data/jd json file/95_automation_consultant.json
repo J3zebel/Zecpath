@@ -1,0 +1,58 @@
+{
+  "job_title": "Automation Consultant",
+  "company_info": {
+    "name": "Generic Electronics Corporation",
+    "industry": "Semiconductors & Electronics Manufacturing",
+    "description": "A pioneering engineering firm specializing in advanced electronic design and systems."
+  },
+  "location": {
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "is_remote": false,
+    "remote_type": "On-site"
+  },
+  "employment_type": "Contract",
+  "experience_required": {
+    "min_years": 5,
+    "max_years": 10
+  },
+  "responsibilities": [
+    "Design industrial automation solutions",
+    "Recommend PLC, SCADA, and robotics systems",
+    "Improve manufacturing workflows",
+    "Troubleshoot automation systems",
+    "Optimize production efficiency"
+  ],
+  "mandatory_skills": [
+    {
+      "name": "Industrial Automation",
+      "level": "Advanced",
+      "years_of_experience": 5
+    },
+    {
+      "name": "Control Systems",
+      "level": "Advanced",
+      "years_of_experience": 5
+    },
+    {
+      "name": "Process engineering understanding",
+      "level": "Advanced",
+      "years_of_experience": 5
+    }
+  ],
+  "preferred_skills": [],
+  "education_requirements": [
+    "Bachelor's degree in Electronics Engineering, Electrical Engineering, Computer Science, or a related technical field."
+  ],
+  "salary_range": {
+    "min": 50,
+    "max": 100,
+    "currency": "USD",
+    "period": "Hourly"
+  },
+  "benefits": [
+    "Flexible Working Hours",
+    "Remote Work Options"
+  ]
+}

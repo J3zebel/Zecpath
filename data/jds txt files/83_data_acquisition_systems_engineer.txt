@@ -1,0 +1,17 @@
+Data Acquisition Systems Engineer
+
+Job Overview
+Develops systems that collect, process, and store real-world data from sensors and industrial
+equipment.
+Responsibilities
+• Design sensor-based data collection systems
+• Process analog and digital signals
+
+• Convert physical signals into digital data
+• Ensure accuracy and real-time data capture
+• Integrate DAQ systems with software platforms
+Skills Required
+• Signal processing basics
+• Sensor technology
+• Embedded systems
+• Data acquisition hardware/software

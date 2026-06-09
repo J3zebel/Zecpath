@@ -1,0 +1,15 @@
+Test & Validation Engineer (Semiconductor)
+
+Job Overview
+Tests semiconductor chips after manufacturing to ensure they meet specifications.
+Responsibilities
+• Perform IC testing and validation
+• Identify defects in fabricated chips
+• Develop test cases and automation scripts
+• Analyze failure patterns
+• Ensure product reliability before release
+Skills Required
+• IC testing methodologies
+• ATE (Automated Test Equipment)
+• Signal analysis
+• Debugging and validation tools

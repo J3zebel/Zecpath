@@ -1,0 +1,14 @@
+Circuit Design Engineer
+
+Job Overview
+Focuses on designing complete electronic circuits for various applications.
+Responsibilities
+
+• Develop circuit diagrams and schematics
+• Perform circuit simulation and testing
+• Optimize power and performance
+• Troubleshoot circuit-level issues
+Skills Required
+• Strong electronics fundamentals
+• SPICE simulation tools
+• Component-level understanding

@@ -1,0 +1,17 @@
+Electronics Test Engineer
+
+Job Overview
+Ensures electronic products and systems function correctly by performing structured testing
+at component and system levels.
+Key Responsibilities
+
+• Conduct functional testing of electronic circuits and devices
+• Develop and execute test plans and test cases
+• Identify hardware/software defects
+• Use test equipment like oscilloscopes, multimeters, signal generators
+• Document test results and failure reports
+Required Skills
+• Electronics fundamentals (analog + digital)
+• Testing tools knowledge
+• Circuit debugging
+• Basic automation testing concepts

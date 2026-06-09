@@ -1,0 +1,15 @@
+Linux Embedded Engineer
+
+Job Overview
+Works on embedded systems running Linux-based operating systems.
+Responsibilities
+• Develop embedded Linux applications
+• Customize Linux kernel
+• Write device drivers
+• Work with bootloaders (U-Boot)
+• Optimize system performance
+Skills Required
+• Linux OS fundamentals
+• Shell scripting
+• C programming
+• Kernel & driver development

@@ -1,0 +1,16 @@
+AI Hardware Engineer
+
+Job Overview
+Develops hardware systems optimized for artificial intelligence applications like machine
+learning, computer vision, and edge AI.
+Responsibilities
+• Design AI-optimized hardware (GPUs, TPUs, NPUs)
+• Optimize hardware for deep learning models
+• Work on AI acceleration chips
+• Collaborate with software ML teams
+• Improve performance, power efficiency, and latency
+Skills Required
+• Digital design + VLSI basics
+• Machine learning fundamentals
+• Hardware acceleration concepts
+• Parallel computing knowledge

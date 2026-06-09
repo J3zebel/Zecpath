@@ -1,0 +1,16 @@
+Quantum Electronics Engineer
+
+Job Overview
+Works on electronic systems used in quantum computing, quantum communication, and
+quantum sensing technologies.
+Responsibilities
+• Design ultra-low noise control electronics for qubits
+• Develop superconducting and cryogenic circuits
+• Support quantum experiments and lab setups
+• Improve signal stability and coherence times
+• Work with quantum measurement systems
+Skills Required
+• Quantum physics fundamentals
+• Advanced analog/digital electronics
+• Cryogenic and low-noise circuit design
+• Signal processing at extreme precision

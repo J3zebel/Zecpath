@@ -1,0 +1,16 @@
+Microwave Engineer
+
+Job Overview
+Works on high-frequency microwave systems used in radar, satellite, and communication
+links.
+Responsibilities
+• Design microwave components (waveguides, filters, couplers)
+• Develop radar and satellite communication systems
+• Analyze signal propagation at microwave frequencies
+• Test high-frequency circuits and antennas
+• Ensure system efficiency and low signal loss
+Skills Required
+• Microwave theory and electromagnetics
+• S-parameter analysis
+• RF simulation tools
+• High-frequency circuit design

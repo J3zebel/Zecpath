@@ -1,0 +1,16 @@
+EMC/EMI Testing Engineer
+
+Job Overview
+Ensures electronic devices do not emit or get affected by electromagnetic interference.
+Responsibilities
+• Perform EMC (Electromagnetic Compatibility) testing
+
+• Measure EMI emissions and susceptibility
+• Ensure compliance with international standards (CE, FCC, ISO)
+• Design shielding and grounding solutions
+• Prepare compliance certification reports
+Skills Required
+• Electromagnetic theory
+• RF interference basics
+• Testing standards knowledge
+• Shielding techniques

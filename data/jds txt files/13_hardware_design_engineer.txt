@@ -1,0 +1,14 @@
+Hardware Design Engineer
+
+Job Overview
+Focuses on designing and developing physical electronic hardware components and systems.
+Responsibilities
+• Design hardware architecture for devices
+• Select components (ICs, sensors, power modules)
+• Develop prototypes and test hardware performance
+• Ensure compliance with industry standards
+• Troubleshoot hardware failures
+Skills Required
+• Hardware integration knowledge
+• PCB and circuit understanding
+• Debugging tools (oscilloscope, logic analyzer)

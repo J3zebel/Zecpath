@@ -1,0 +1,14 @@
+Analog Electronics Engineer
+
+Job Overview
+Works on continuous signal-based electronic systems like amplifiers, filters, and power
+circuits.
+Responsibilities
+• Design analog circuits (amplifiers, oscillators, filters)
+• Analyze signal behavior and noise reduction
+• Optimize circuit stability and performance
+• Perform simulation and lab testing
+Skills Required
+• Analog circuit theory
+• Op-amp design
+• Signal processing basics

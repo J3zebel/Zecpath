@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "filename": "resume2.pdf",
+    "filepath": "E:\\zecpath\\data\\resumes\\resume2.pdf",
+    "file_size_bytes": 68991,
+    "format": ".pdf",
+    "word_count": 262,
+    "char_count": 1656,
+    "extracted_at": "2026-06-09T06:45:48.092354Z"
+  },
+  "sections": {
+    "HEADER": "FIRSTNAME LASTNAME\n+1(123) 456-7890 (cid:5) San Francisco, CA\nYouremailhere@gmail.com (cid:5) linkedin.com/in/linkedinURL (cid:5) www.yourwebsite.com",
+    "PROJECTS": "Project 1 Language 1, Framework 1, Database, Language 2, Framework 2, DevOps Tooling, etc\n- Created a XYZ feature to accomplish ABC.\n- Retrieved data from XYZ to for ABC.\n- Implemented XYZ library for ABC.\n- Utilized XYZ that increased A by B%.\nProject 2 Language 1, Framework 1, Database, Language 2, Framework 2, DevOps Tooling, etc\n- Created a XYZ feature to accomplish ABC.\n- Retrieved data from XYZ to for ABC.\n- Implemented XYZ library for ABC.\n- Utilized XYZ that increased A by B%.\nProject 3 Language 1, Framework 1, Database, Language 2, Framework 2, DevOps Tooling, etc\n- Created a XYZ feature to accomplish ABC.\n- Retrieved data from XYZ to for ABC.\n- Implemented XYZ library for ABC.\n- Utilized XYZ that increased A by B%.\nProject 4 Language 1, Framework 1, Database, Language 2, Framework 2, DevOps Tooling, etc\n- Created a XYZ feature to accomplish ABC.\n- Retrieved data from XYZ to for ABC.\n- Implemented XYZ library for ABC.\n- Utilized XYZ that increased A by B%.",
+    "SKILLS": "Languages Javascript, Python, HTML, CSS, PostgreSQL, GraphQL\nFrameworks React, Redux, Node.js, Express, Django, Mocha\nTools Git, Docker, TravisCI, Kubernetes, AWS\nSoft Skills Time Management, Teamwork, Communication, Problem Solving, Leadership, Accountability",
+    "EDUCATION": "Software Development Certificate, XY Bootcamp Month Year\nBS in XYZ, ABC University Month Year",
+    "WORK EXPERIENCE": "Job Title Company Month Year - Month Year\nJob Title Company Month Year - Month Year\nJob Title Company Month Year - Month Year"
+  },
+  "raw_cleaned_text": "FIRSTNAME LASTNAME\n+1(123) 456-7890 (cid:5) San Francisco, CA\nYouremailhere@gmail.com (cid:5) linkedin.com/in/linkedinURL (cid:5) www.yourwebsite.com\n\nPROJECTS\nProject 1 Language 1, Framework 1, Database, Language 2, Framework 2, DevOps Tooling, etc\n- Created a XYZ feature to accomplish ABC.\n- Retrieved data from XYZ to for ABC.\n- Implemented XYZ library for ABC.\n- Utilized XYZ that increased A by B%.\nProject 2 Language 1, Framework 1, Database, Language 2, Framework 2, DevOps Tooling, etc\n- Created a XYZ feature to accomplish ABC.\n- Retrieved data from XYZ to for ABC.\n- Implemented XYZ library for ABC.\n- Utilized XYZ that increased A by B%.\nProject 3 Language 1, Framework 1, Database, Language 2, Framework 2, DevOps Tooling, etc\n- Created a XYZ feature to accomplish ABC.\n- Retrieved data from XYZ to for ABC.\n- Implemented XYZ library for ABC.\n- Utilized XYZ that increased A by B%.\nProject 4 Language 1, Framework 1, Database, Language 2, Framework 2, DevOps Tooling, etc\n- Created a XYZ feature to accomplish ABC.\n- Retrieved data from XYZ to for ABC.\n- Implemented XYZ library for ABC.\n- Utilized XYZ that increased A by B%.\n\nSKILLS\nLanguages Javascript, Python, HTML, CSS, PostgreSQL, GraphQL\nFrameworks React, Redux, Node.js, Express, Django, Mocha\nTools Git, Docker, TravisCI, Kubernetes, AWS\nSoft Skills Time Management, Teamwork, Communication, Problem Solving, Leadership, Accountability\n\nEDUCATION\nSoftware Development Certificate, XY Bootcamp Month Year\nBS in XYZ, ABC University Month Year\n\nWORK EXPERIENCE\nJob Title Company Month Year - Month Year\nJob Title Company Month Year - Month Year\nJob Title Company Month Year - Month Year"
+}

@@ -1,0 +1,50 @@
+Kunal Kumar (cid:131) +91-xxxxxxx
+Roll No.: xxxxx # kunalkumarxxxxxxxx@gmail.com
+Bachelor of Technology § GitHub Profile
+Nalanda College of Engineering, Chandi (cid:239) LinkedIn Profile
+
+EDUCATION
+- Nalanda College of Engineering, Chandi 2019-23
+Bachelor of Technology in Computer Science and Engineering CGPA: 7.67
+- Bapu High School - Senior Secondary 2019
+Board of Secondary Education, State Percentage: 79.6
+
+PROJECTS
+- Blog Application HTML, CSS, JavaScript, ReactJS, Firebase. § Source Code
+– A blog web app that allows users to create, view, and comment on blog posts. The app uses Firebase Firestore to
+Store the blog posts.
+– Here are some of the features of the app: Create blog posts, View blog posts in detail, Comment on blog posts,
+Easy to use and navigate.
+- Quizzy API JavaScript, ExpressJs, NodeJs, JWT authentication, MongoDB. § Source Code
+– API made for fetching data based on user authenticated login, also posting of data by the admin
+– This API was made for full stack Quiz Application made for submission as minor project.
+- Meal App HTML, CSS, JavaScript, AJAX. § Source Code
+– Web App made for searching different meals, made using vanilla JavaScript
+– This web app utilizes mealdb api for getting information on different meals.
+– LocalSotrage is being utilized in this project for making the favourite list in this app persistent.
+- Todo List HTML, CSS, JavaScript. § Source Code
+– Web App made for creating to-do list for the day
+– Features - Add, Delete, Check Tasks in the list, Notification Panel,Sort the todos lexographically and in the order
+They were added.
+Internship
+- Coding Ninjas - Sunrise Mentors Pvt. Ltd. Sep-Dec 2022
+Teaching Assistant New Delhi
+– Conducted doubt sessions, addressing queries and clarifying doubts in C++, Data Structures, and Algorithms.
+– Assisted students in debugging code and guided them in effective problem-solving strategies.
+– Fosteredopencommunicationandcollaboration, encouragingactiveparticipationandcreatinganenrichinglearn-
+Ing environment.
+– Received positive feedback for dedication and simplifying complex concepts, helping students overcome difficulties
+And achieve academic goals.
+Technical Skills and Interests
+Languages: C/C++, Java, Javascript, HTML+CSS
+Libraries : C++ STL, Java Collection, ReactJs
+Web Dev Tools: Ajax, jQuery, Nodejs, VScode, Git, Github
+Frameworks: ExpressJs
+Cloud/Databases:MongoDb, Firebase, Relational Database(mySql)
+Relevent Coursework: Design and Analysis of Algorithms, Operating Systems, Object Oriented Programming,
+Database Management System, Software Engineering, System Design.
+Areas of Interest: Web Design and Development, Backend Development.
+Soft Skills: Problem Solving, Self-learning, Presentation, Adaptability
+Positions of Responsibility
+- Science Teacher, CHIRAG - NCE, Chandi 2019-2023
+(Non-profit organization founded by NCE students to educate unprivileged children in Chandi, Bihar)

@@ -1,0 +1,237 @@
+{
+  "execution_summary": {
+    "timestamp": "2026-06-09T06:45:50.106817Z",
+    "total_files": 15,
+    "successful_runs": 15,
+    "failed_runs": 0,
+    "success_rate_percent": 100.0,
+    "total_duration_seconds": 5.658
+  },
+  "file_details": [
+    {
+      "filename": "Adithyan s s.pdf",
+      "status": "SUCCESS",
+      "format": ".pdf",
+      "file_size_bytes": 147844,
+      "duration_seconds": 0.54,
+      "word_count": 192,
+      "char_count": 1465,
+      "sections_found": [
+        "HEADER"
+      ]
+    },
+    {
+      "filename": "Jithin_J.pdf",
+      "status": "SUCCESS",
+      "format": ".pdf",
+      "file_size_bytes": 83288,
+      "duration_seconds": 0.273,
+      "word_count": 81,
+      "char_count": 1697,
+      "sections_found": [
+        "HEADER",
+        "SUMMARY",
+        "EDUCATION",
+        "SKILLS",
+        "WORK EXPERIENCE",
+        "CERTIFICATIONS"
+      ]
+    },
+    {
+      "filename": "Nihal Resume.pdf",
+      "status": "SUCCESS",
+      "format": ".pdf",
+      "file_size_bytes": 71685,
+      "duration_seconds": 0.546,
+      "word_count": 210,
+      "char_count": 1733,
+      "sections_found": [
+        "HEADER",
+        "SKILLS",
+        "LANGUAGES",
+        "AWARDS"
+      ]
+    },
+    {
+      "filename": "resume0.pdf",
+      "status": "SUCCESS",
+      "format": ".pdf",
+      "file_size_bytes": 81466,
+      "duration_seconds": 0.171,
+      "word_count": 68,
+      "char_count": 1862,
+      "sections_found": [
+        "HEADER",
+        "SUMMARY",
+        "SKILLS",
+        "PROJECTS",
+        "WORK EXPERIENCE",
+        "EDUCATION",
+        "CERTIFICATIONS"
+      ]
+    },
+    {
+      "filename": "resume1.pdf",
+      "status": "SUCCESS",
+      "format": ".pdf",
+      "file_size_bytes": 128524,
+      "duration_seconds": 1.598,
+      "word_count": 687,
+      "char_count": 4927,
+      "sections_found": [
+        "HEADER",
+        "SUMMARY",
+        "SKILLS",
+        "WORK EXPERIENCE",
+        "EDUCATION",
+        "LANGUAGES"
+      ]
+    },
+    {
+      "filename": "resume10.pdf",
+      "status": "SUCCESS",
+      "format": ".pdf",
+      "file_size_bytes": 39772,
+      "duration_seconds": 0.307,
+      "word_count": 311,
+      "char_count": 2340,
+      "sections_found": [
+        "HEADER",
+        "SUMMARY",
+        "EDUCATION",
+        "SKILLS"
+      ]
+    },
+    {
+      "filename": "resume2.pdf",
+      "status": "SUCCESS",
+      "format": ".pdf",
+      "file_size_bytes": 68991,
+      "duration_seconds": 0.104,
+      "word_count": 262,
+      "char_count": 1656,
+      "sections_found": [
+        "HEADER",
+        "PROJECTS",
+        "SKILLS",
+        "EDUCATION",
+        "WORK EXPERIENCE"
+      ]
+    },
+    {
+      "filename": "resume4.pdf",
+      "status": "SUCCESS",
+      "format": ".pdf",
+      "file_size_bytes": 1197951,
+      "duration_seconds": 0.267,
+      "word_count": 417,
+      "char_count": 2912,
+      "sections_found": [
+        "HEADER",
+        "EDUCATION",
+        "PROJECTS"
+      ]
+    },
+    {
+      "filename": "resume5.pdf",
+      "status": "SUCCESS",
+      "format": ".pdf",
+      "file_size_bytes": 1197951,
+      "duration_seconds": 0.224,
+      "word_count": 417,
+      "char_count": 2912,
+      "sections_found": [
+        "HEADER",
+        "EDUCATION",
+        "PROJECTS"
+      ]
+    },
+    {
+      "filename": "resume6.pdf",
+      "status": "SUCCESS",
+      "format": ".pdf",
+      "file_size_bytes": 67269,
+      "duration_seconds": 0.13,
+      "word_count": 128,
+      "char_count": 2174,
+      "sections_found": [
+        "HEADER"
+      ]
+    },
+    {
+      "filename": "resume7.pdf",
+      "status": "SUCCESS",
+      "format": ".pdf",
+      "file_size_bytes": 45731,
+      "duration_seconds": 0.229,
+      "word_count": 218,
+      "char_count": 1512,
+      "sections_found": [
+        "HEADER",
+        "SUMMARY",
+        "WORK EXPERIENCE",
+        "EDUCATION",
+        "SKILLS"
+      ]
+    },
+    {
+      "filename": "resume8.pdf",
+      "status": "SUCCESS",
+      "format": ".pdf",
+      "file_size_bytes": 54190,
+      "duration_seconds": 0.316,
+      "word_count": 293,
+      "char_count": 2071,
+      "sections_found": [
+        "HEADER",
+        "AWARDS"
+      ]
+    },
+    {
+      "filename": "resume9.pdf",
+      "status": "SUCCESS",
+      "format": ".pdf",
+      "file_size_bytes": 521835,
+      "duration_seconds": 0.35,
+      "word_count": 345,
+      "char_count": 2194,
+      "sections_found": [
+        "HEADER"
+      ]
+    },
+    {
+      "filename": "rsume3.pdf",
+      "status": "SUCCESS",
+      "format": ".pdf",
+      "file_size_bytes": 246815,
+      "duration_seconds": 0.218,
+      "word_count": 98,
+      "char_count": 3753,
+      "sections_found": [
+        "HEADER",
+        "WORK EXPERIENCE",
+        "EDUCATION",
+        "PROJECTS"
+      ]
+    },
+    {
+      "filename": "Swathi_V__Org_ (4).pdf",
+      "status": "SUCCESS",
+      "format": ".pdf",
+      "file_size_bytes": 87384,
+      "duration_seconds": 0.194,
+      "word_count": 76,
+      "char_count": 2580,
+      "sections_found": [
+        "HEADER",
+        "SUMMARY",
+        "SKILLS",
+        "PROJECTS",
+        "WORK EXPERIENCE",
+        "EDUCATION",
+        "CERTIFICATIONS",
+        "AWARDS"
+      ]
+    }
+  ]
+}

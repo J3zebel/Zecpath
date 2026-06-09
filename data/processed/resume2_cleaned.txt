@@ -1,0 +1,40 @@
+FIRSTNAME LASTNAME
++1(123) 456-7890 (cid:5) San Francisco, CA
+Youremailhere@gmail.com (cid:5) linkedin.com/in/linkedinURL (cid:5) www.yourwebsite.com
+
+PROJECTS
+Project 1 Language 1, Framework 1, Database, Language 2, Framework 2, DevOps Tooling, etc
+- Created a XYZ feature to accomplish ABC.
+- Retrieved data from XYZ to for ABC.
+- Implemented XYZ library for ABC.
+- Utilized XYZ that increased A by B%.
+Project 2 Language 1, Framework 1, Database, Language 2, Framework 2, DevOps Tooling, etc
+- Created a XYZ feature to accomplish ABC.
+- Retrieved data from XYZ to for ABC.
+- Implemented XYZ library for ABC.
+- Utilized XYZ that increased A by B%.
+Project 3 Language 1, Framework 1, Database, Language 2, Framework 2, DevOps Tooling, etc
+- Created a XYZ feature to accomplish ABC.
+- Retrieved data from XYZ to for ABC.
+- Implemented XYZ library for ABC.
+- Utilized XYZ that increased A by B%.
+Project 4 Language 1, Framework 1, Database, Language 2, Framework 2, DevOps Tooling, etc
+- Created a XYZ feature to accomplish ABC.
+- Retrieved data from XYZ to for ABC.
+- Implemented XYZ library for ABC.
+- Utilized XYZ that increased A by B%.
+
+SKILLS
+Languages Javascript, Python, HTML, CSS, PostgreSQL, GraphQL
+Frameworks React, Redux, Node.js, Express, Django, Mocha
+Tools Git, Docker, TravisCI, Kubernetes, AWS
+Soft Skills Time Management, Teamwork, Communication, Problem Solving, Leadership, Accountability
+
+EDUCATION
+Software Development Certificate, XY Bootcamp Month Year
+BS in XYZ, ABC University Month Year
+
+WORK EXPERIENCE
+Job Title Company Month Year - Month Year
+Job Title Company Month Year - Month Year
+Job Title Company Month Year - Month Year

@@ -1,3 +1,318 @@
-2026-05-13 11:03:52,237 - parsers.extractor - ERROR - File not found: non_existent_file.pdf
-2026-05-13 11:04:17,197 - parsers.extractor - ERROR - File not found: non_existent_file.pdf
-2026-05-13 11:05:29,116 - parsers.extractor - ERROR - File not found: non_existent_file.pdf
+2026-05-13 11:49:48,250 - tests.test_extractor - INFO - Successfully started Resume Extraction Engine tests.
+2026-05-13 11:51:39,856 - tests.test_extractor - INFO - Successfully started Resume Extraction Engine tests.
+2026-06-09 12:07:19,313 - tests.test_extractor - INFO - Successfully started Resume Extraction Engine tests.
+2026-06-09 12:09:36,675 - tests.test_extractor - INFO - Successfully started Resume Extraction Engine tests.
+2026-06-09 12:10:21,671 - extraction_pipeline - INFO - Starting pipeline execution for 15 files.
+2026-06-09 12:10:21,678 - parsers.extractor - INFO - Extracting text from data\resumes\Adithyan s s.pdf
+2026-06-09 12:10:22,007 - parsers.extractor - ERROR - Error extracting resume data\resumes\Adithyan s s.pdf: Failed to extract text from PDF data\resumes\Adithyan s s.pdf: Bounding box (0.0, 834.5787308796355, 595.5, 842.2499787) is entirely outside parent page bounding box (0.0, -7.829981299999986, 595.5, 834.4199974)
+2026-06-09 12:10:22,037 - extraction_pipeline - ERROR - Failed to process Adithyan s s.pdf: Failed to extract text from PDF data\resumes\Adithyan s s.pdf: Bounding box (0.0, 834.5787308796355, 595.5, 842.2499787) is entirely outside parent page bounding box (0.0, -7.829981299999986, 595.5, 834.4199974)
+Traceback (most recent call last):
+  File "E:\zecpath\parsers\pdf_parser.py", line 167, in extract_text_from_pdf
+    text_crop = page.crop((0.0, y_start, width, y_end))
+  File "E:\zecpath\.venv\lib\site-packages\pdfplumber\page.py", line 548, in crop
+    return CroppedPage(self, bbox, relative=relative, strict=strict)
+  File "E:\zecpath\.venv\lib\site-packages\pdfplumber\page.py", line 692, in __init__
+    test_proposed_bbox(crop_bbox, parent_page.bbox)
+  File "E:\zecpath\.venv\lib\site-packages\pdfplumber\page.py", line 664, in test_proposed_bbox
+    raise ValueError(
+ValueError: Bounding box (0.0, 834.5787308796355, 595.5, 842.2499787) is entirely outside parent page bounding box (0.0, -7.829981299999986, 595.5, 834.4199974)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\zecpath\run_extraction_pipeline.py", line 47, in run_pipeline
+    cleaned_text = extract_resume(filepath, output_dir=output_dir)
+  File "E:\zecpath\parsers\extractor.py", line 37, in extract_resume
+    raw_text = extract_text_from_pdf(file_path)
+  File "E:\zecpath\parsers\pdf_parser.py", line 178, in extract_text_from_pdf
+    raise RuntimeError(f"Failed to extract text from PDF {file_path}: {str(e)}")
+RuntimeError: Failed to extract text from PDF data\resumes\Adithyan s s.pdf: Bounding box (0.0, 834.5787308796355, 595.5, 842.2499787) is entirely outside parent page bounding box (0.0, -7.829981299999986, 595.5, 834.4199974)
+
+2026-06-09 12:10:22,038 - parsers.extractor - INFO - Extracting text from data\resumes\Jithin_J.pdf
+2026-06-09 12:10:22,157 - parsers.extractor - INFO - Cleaning and normalizing extracted text.
+2026-06-09 12:10:22,173 - parsers.extractor - INFO - Saved cleaned text to data\processed\Jithin_J_cleaned.txt
+2026-06-09 12:10:22,174 - parsers.extractor - INFO - Saved structured JSON to data\processed\Jithin_J_structured.json
+2026-06-09 12:10:22,184 - parsers.extractor - INFO - Extracting text from data\resumes\Nihal Resume.pdf
+2026-06-09 12:10:22,456 - parsers.extractor - ERROR - Error extracting resume data\resumes\Nihal Resume.pdf: Failed to extract text from PDF data\resumes\Nihal Resume.pdf: Bounding box (0.0, 0.0, 595.5, 842.2499787) is not fully within parent page bounding box (0.0, -7.829981299999986, 595.5, 834.4199974)
+2026-06-09 12:10:22,465 - extraction_pipeline - ERROR - Failed to process Nihal Resume.pdf: Failed to extract text from PDF data\resumes\Nihal Resume.pdf: Bounding box (0.0, 0.0, 595.5, 842.2499787) is not fully within parent page bounding box (0.0, -7.829981299999986, 595.5, 834.4199974)
+Traceback (most recent call last):
+  File "E:\zecpath\parsers\pdf_parser.py", line 167, in extract_text_from_pdf
+    text_crop = page.crop((0.0, y_start, width, y_end))
+  File "E:\zecpath\.venv\lib\site-packages\pdfplumber\page.py", line 548, in crop
+    return CroppedPage(self, bbox, relative=relative, strict=strict)
+  File "E:\zecpath\.venv\lib\site-packages\pdfplumber\page.py", line 692, in __init__
+    test_proposed_bbox(crop_bbox, parent_page.bbox)
+  File "E:\zecpath\.venv\lib\site-packages\pdfplumber\page.py", line 671, in test_proposed_bbox
+    raise ValueError(
+ValueError: Bounding box (0.0, 0.0, 595.5, 842.2499787) is not fully within parent page bounding box (0.0, -7.829981299999986, 595.5, 834.4199974)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\zecpath\run_extraction_pipeline.py", line 47, in run_pipeline
+    cleaned_text = extract_resume(filepath, output_dir=output_dir)
+  File "E:\zecpath\parsers\extractor.py", line 37, in extract_resume
+    raw_text = extract_text_from_pdf(file_path)
+  File "E:\zecpath\parsers\pdf_parser.py", line 178, in extract_text_from_pdf
+    raise RuntimeError(f"Failed to extract text from PDF {file_path}: {str(e)}")
+RuntimeError: Failed to extract text from PDF data\resumes\Nihal Resume.pdf: Bounding box (0.0, 0.0, 595.5, 842.2499787) is not fully within parent page bounding box (0.0, -7.829981299999986, 595.5, 834.4199974)
+
+2026-06-09 12:10:22,465 - parsers.extractor - INFO - Extracting text from data\resumes\resume0.pdf
+2026-06-09 12:10:22,573 - parsers.extractor - INFO - Cleaning and normalizing extracted text.
+2026-06-09 12:10:22,583 - parsers.extractor - INFO - Saved cleaned text to data\processed\resume0_cleaned.txt
+2026-06-09 12:10:22,584 - parsers.extractor - INFO - Saved structured JSON to data\processed\resume0_structured.json
+2026-06-09 12:10:22,594 - parsers.extractor - INFO - Extracting text from data\resumes\resume1.pdf
+2026-06-09 12:10:24,257 - parsers.extractor - INFO - Cleaning and normalizing extracted text.
+2026-06-09 12:10:24,267 - parsers.extractor - INFO - Saved cleaned text to data\processed\resume1_cleaned.txt
+2026-06-09 12:10:24,270 - parsers.extractor - INFO - Saved structured JSON to data\processed\resume1_structured.json
+2026-06-09 12:10:24,283 - parsers.extractor - INFO - Extracting text from data\resumes\resume10.pdf
+2026-06-09 12:10:24,586 - parsers.extractor - ERROR - Error extracting resume data\resumes\resume10.pdf: Failed to extract text from PDF data\resumes\resume10.pdf: Bounding box (0.0, 0.0, 595.5, 842.2499787) is not fully within parent page bounding box (0.0, -7.829981299999986, 595.5, 834.4199974)
+2026-06-09 12:10:24,590 - extraction_pipeline - ERROR - Failed to process resume10.pdf: Failed to extract text from PDF data\resumes\resume10.pdf: Bounding box (0.0, 0.0, 595.5, 842.2499787) is not fully within parent page bounding box (0.0, -7.829981299999986, 595.5, 834.4199974)
+Traceback (most recent call last):
+  File "E:\zecpath\parsers\pdf_parser.py", line 167, in extract_text_from_pdf
+    text_crop = page.crop((0.0, y_start, width, y_end))
+  File "E:\zecpath\.venv\lib\site-packages\pdfplumber\page.py", line 548, in crop
+    return CroppedPage(self, bbox, relative=relative, strict=strict)
+  File "E:\zecpath\.venv\lib\site-packages\pdfplumber\page.py", line 692, in __init__
+    test_proposed_bbox(crop_bbox, parent_page.bbox)
+  File "E:\zecpath\.venv\lib\site-packages\pdfplumber\page.py", line 671, in test_proposed_bbox
+    raise ValueError(
+ValueError: Bounding box (0.0, 0.0, 595.5, 842.2499787) is not fully within parent page bounding box (0.0, -7.829981299999986, 595.5, 834.4199974)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\zecpath\run_extraction_pipeline.py", line 47, in run_pipeline
+    cleaned_text = extract_resume(filepath, output_dir=output_dir)
+  File "E:\zecpath\parsers\extractor.py", line 37, in extract_resume
+    raw_text = extract_text_from_pdf(file_path)
+  File "E:\zecpath\parsers\pdf_parser.py", line 178, in extract_text_from_pdf
+    raise RuntimeError(f"Failed to extract text from PDF {file_path}: {str(e)}")
+RuntimeError: Failed to extract text from PDF data\resumes\resume10.pdf: Bounding box (0.0, 0.0, 595.5, 842.2499787) is not fully within parent page bounding box (0.0, -7.829981299999986, 595.5, 834.4199974)
+
+2026-06-09 12:10:24,591 - parsers.extractor - INFO - Extracting text from data\resumes\resume2.pdf
+2026-06-09 12:10:24,685 - parsers.extractor - INFO - Cleaning and normalizing extracted text.
+2026-06-09 12:10:24,701 - parsers.extractor - INFO - Saved cleaned text to data\processed\resume2_cleaned.txt
+2026-06-09 12:10:24,703 - parsers.extractor - INFO - Saved structured JSON to data\processed\resume2_structured.json
+2026-06-09 12:10:24,714 - parsers.extractor - INFO - Extracting text from data\resumes\resume4.pdf
+2026-06-09 12:10:24,936 - parsers.extractor - INFO - Cleaning and normalizing extracted text.
+2026-06-09 12:10:24,942 - parsers.extractor - INFO - Saved cleaned text to data\processed\resume4_cleaned.txt
+2026-06-09 12:10:24,943 - parsers.extractor - INFO - Saved structured JSON to data\processed\resume4_structured.json
+2026-06-09 12:10:24,952 - parsers.extractor - INFO - Extracting text from data\resumes\resume5.pdf
+2026-06-09 12:10:25,232 - parsers.extractor - INFO - Cleaning and normalizing extracted text.
+2026-06-09 12:10:25,247 - parsers.extractor - INFO - Saved cleaned text to data\processed\resume5_cleaned.txt
+2026-06-09 12:10:25,250 - parsers.extractor - INFO - Saved structured JSON to data\processed\resume5_structured.json
+2026-06-09 12:10:25,261 - parsers.extractor - INFO - Extracting text from data\resumes\resume6.pdf
+2026-06-09 12:10:25,373 - parsers.extractor - INFO - Cleaning and normalizing extracted text.
+2026-06-09 12:10:25,385 - parsers.extractor - INFO - Saved cleaned text to data\processed\resume6_cleaned.txt
+2026-06-09 12:10:25,389 - parsers.extractor - INFO - Saved structured JSON to data\processed\resume6_structured.json
+2026-06-09 12:10:25,398 - parsers.extractor - INFO - Extracting text from data\resumes\resume7.pdf
+2026-06-09 12:10:25,590 - parsers.extractor - ERROR - Error extracting resume data\resumes\resume7.pdf: Failed to extract text from PDF data\resumes\resume7.pdf: Bounding box (0.0, 0.0, 595.5, 842.2499787) is not fully within parent page bounding box (0.0, -7.829981299999986, 595.5, 834.4199974)
+2026-06-09 12:10:25,601 - extraction_pipeline - ERROR - Failed to process resume7.pdf: Failed to extract text from PDF data\resumes\resume7.pdf: Bounding box (0.0, 0.0, 595.5, 842.2499787) is not fully within parent page bounding box (0.0, -7.829981299999986, 595.5, 834.4199974)
+Traceback (most recent call last):
+  File "E:\zecpath\parsers\pdf_parser.py", line 167, in extract_text_from_pdf
+    text_crop = page.crop((0.0, y_start, width, y_end))
+  File "E:\zecpath\.venv\lib\site-packages\pdfplumber\page.py", line 548, in crop
+    return CroppedPage(self, bbox, relative=relative, strict=strict)
+  File "E:\zecpath\.venv\lib\site-packages\pdfplumber\page.py", line 692, in __init__
+    test_proposed_bbox(crop_bbox, parent_page.bbox)
+  File "E:\zecpath\.venv\lib\site-packages\pdfplumber\page.py", line 671, in test_proposed_bbox
+    raise ValueError(
+ValueError: Bounding box (0.0, 0.0, 595.5, 842.2499787) is not fully within parent page bounding box (0.0, -7.829981299999986, 595.5, 834.4199974)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\zecpath\run_extraction_pipeline.py", line 47, in run_pipeline
+    cleaned_text = extract_resume(filepath, output_dir=output_dir)
+  File "E:\zecpath\parsers\extractor.py", line 37, in extract_resume
+    raw_text = extract_text_from_pdf(file_path)
+  File "E:\zecpath\parsers\pdf_parser.py", line 178, in extract_text_from_pdf
+    raise RuntimeError(f"Failed to extract text from PDF {file_path}: {str(e)}")
+RuntimeError: Failed to extract text from PDF data\resumes\resume7.pdf: Bounding box (0.0, 0.0, 595.5, 842.2499787) is not fully within parent page bounding box (0.0, -7.829981299999986, 595.5, 834.4199974)
+
+2026-06-09 12:10:25,601 - parsers.extractor - INFO - Extracting text from data\resumes\resume8.pdf
+2026-06-09 12:10:25,875 - parsers.extractor - ERROR - Error extracting resume data\resumes\resume8.pdf: Failed to extract text from PDF data\resumes\resume8.pdf: Bounding box (0.0, 0.0, 595.5, 842.2499787) is not fully within parent page bounding box (0.0, -7.829981299999986, 595.5, 834.4199974)
+2026-06-09 12:10:25,877 - extraction_pipeline - ERROR - Failed to process resume8.pdf: Failed to extract text from PDF data\resumes\resume8.pdf: Bounding box (0.0, 0.0, 595.5, 842.2499787) is not fully within parent page bounding box (0.0, -7.829981299999986, 595.5, 834.4199974)
+Traceback (most recent call last):
+  File "E:\zecpath\parsers\pdf_parser.py", line 167, in extract_text_from_pdf
+    text_crop = page.crop((0.0, y_start, width, y_end))
+  File "E:\zecpath\.venv\lib\site-packages\pdfplumber\page.py", line 548, in crop
+    return CroppedPage(self, bbox, relative=relative, strict=strict)
+  File "E:\zecpath\.venv\lib\site-packages\pdfplumber\page.py", line 692, in __init__
+    test_proposed_bbox(crop_bbox, parent_page.bbox)
+  File "E:\zecpath\.venv\lib\site-packages\pdfplumber\page.py", line 671, in test_proposed_bbox
+    raise ValueError(
+ValueError: Bounding box (0.0, 0.0, 595.5, 842.2499787) is not fully within parent page bounding box (0.0, -7.829981299999986, 595.5, 834.4199974)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\zecpath\run_extraction_pipeline.py", line 47, in run_pipeline
+    cleaned_text = extract_resume(filepath, output_dir=output_dir)
+  File "E:\zecpath\parsers\extractor.py", line 37, in extract_resume
+    raw_text = extract_text_from_pdf(file_path)
+  File "E:\zecpath\parsers\pdf_parser.py", line 178, in extract_text_from_pdf
+    raise RuntimeError(f"Failed to extract text from PDF {file_path}: {str(e)}")
+RuntimeError: Failed to extract text from PDF data\resumes\resume8.pdf: Bounding box (0.0, 0.0, 595.5, 842.2499787) is not fully within parent page bounding box (0.0, -7.829981299999986, 595.5, 834.4199974)
+
+2026-06-09 12:10:25,877 - parsers.extractor - INFO - Extracting text from data\resumes\resume9.pdf
+2026-06-09 12:10:26,198 - parsers.extractor - ERROR - Error extracting resume data\resumes\resume9.pdf: Failed to extract text from PDF data\resumes\resume9.pdf: Bounding box (0.0, 839.0267166463028, 595.5, 842.2499787) is entirely outside parent page bounding box (0.0, -7.829981299999986, 595.5, 834.4199974)
+2026-06-09 12:10:26,201 - extraction_pipeline - ERROR - Failed to process resume9.pdf: Failed to extract text from PDF data\resumes\resume9.pdf: Bounding box (0.0, 839.0267166463028, 595.5, 842.2499787) is entirely outside parent page bounding box (0.0, -7.829981299999986, 595.5, 834.4199974)
+Traceback (most recent call last):
+  File "E:\zecpath\parsers\pdf_parser.py", line 167, in extract_text_from_pdf
+    text_crop = page.crop((0.0, y_start, width, y_end))
+  File "E:\zecpath\.venv\lib\site-packages\pdfplumber\page.py", line 548, in crop
+    return CroppedPage(self, bbox, relative=relative, strict=strict)
+  File "E:\zecpath\.venv\lib\site-packages\pdfplumber\page.py", line 692, in __init__
+    test_proposed_bbox(crop_bbox, parent_page.bbox)
+  File "E:\zecpath\.venv\lib\site-packages\pdfplumber\page.py", line 664, in test_proposed_bbox
+    raise ValueError(
+ValueError: Bounding box (0.0, 839.0267166463028, 595.5, 842.2499787) is entirely outside parent page bounding box (0.0, -7.829981299999986, 595.5, 834.4199974)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\zecpath\run_extraction_pipeline.py", line 47, in run_pipeline
+    cleaned_text = extract_resume(filepath, output_dir=output_dir)
+  File "E:\zecpath\parsers\extractor.py", line 37, in extract_resume
+    raw_text = extract_text_from_pdf(file_path)
+  File "E:\zecpath\parsers\pdf_parser.py", line 178, in extract_text_from_pdf
+    raise RuntimeError(f"Failed to extract text from PDF {file_path}: {str(e)}")
+RuntimeError: Failed to extract text from PDF data\resumes\resume9.pdf: Bounding box (0.0, 839.0267166463028, 595.5, 842.2499787) is entirely outside parent page bounding box (0.0, -7.829981299999986, 595.5, 834.4199974)
+
+2026-06-09 12:10:26,202 - parsers.extractor - INFO - Extracting text from data\resumes\rsume3.pdf
+2026-06-09 12:10:26,425 - parsers.extractor - INFO - Cleaning and normalizing extracted text.
+2026-06-09 12:10:26,435 - parsers.extractor - INFO - Saved cleaned text to data\processed\rsume3_cleaned.txt
+2026-06-09 12:10:26,436 - parsers.extractor - INFO - Saved structured JSON to data\processed\rsume3_structured.json
+2026-06-09 12:10:26,442 - parsers.extractor - INFO - Extracting text from data\resumes\Swathi_V__Org_ (4).pdf
+2026-06-09 12:10:26,622 - parsers.extractor - INFO - Cleaning and normalizing extracted text.
+2026-06-09 12:10:26,628 - parsers.extractor - INFO - Saved cleaned text to data\processed\Swathi_V__Org_ (4)_cleaned.txt
+2026-06-09 12:10:26,629 - parsers.extractor - INFO - Saved structured JSON to data\processed\Swathi_V__Org_ (4)_structured.json
+2026-06-09 12:10:26,641 - extraction_pipeline - INFO - Pipeline finished. Success rate: 60.00%. Report saved to data\processed\extraction_report.json
+2026-06-09 12:11:19,103 - tests.test_extractor - INFO - Successfully started Resume Extraction Engine tests.
+2026-06-09 12:11:23,874 - extraction_pipeline - INFO - Starting pipeline execution for 15 files.
+2026-06-09 12:11:23,882 - parsers.extractor - INFO - Extracting text from data\resumes\Adithyan s s.pdf
+2026-06-09 12:11:24,174 - parsers.extractor - INFO - Cleaning and normalizing extracted text.
+2026-06-09 12:11:24,177 - parsers.extractor - INFO - Saved cleaned text to data\processed\Adithyan s s_cleaned.txt
+2026-06-09 12:11:24,178 - parsers.extractor - INFO - Saved structured JSON to data\processed\Adithyan s s_structured.json
+2026-06-09 12:11:24,191 - parsers.extractor - INFO - Extracting text from data\resumes\Jithin_J.pdf
+2026-06-09 12:11:24,308 - parsers.extractor - INFO - Cleaning and normalizing extracted text.
+2026-06-09 12:11:24,320 - parsers.extractor - INFO - Saved cleaned text to data\processed\Jithin_J_cleaned.txt
+2026-06-09 12:11:24,320 - parsers.extractor - INFO - Saved structured JSON to data\processed\Jithin_J_structured.json
+2026-06-09 12:11:24,331 - parsers.extractor - INFO - Extracting text from data\resumes\Nihal Resume.pdf
+2026-06-09 12:11:24,625 - parsers.extractor - INFO - Cleaning and normalizing extracted text.
+2026-06-09 12:11:24,637 - parsers.extractor - INFO - Saved cleaned text to data\processed\Nihal Resume_cleaned.txt
+2026-06-09 12:11:24,638 - parsers.extractor - INFO - Saved structured JSON to data\processed\Nihal Resume_structured.json
+2026-06-09 12:11:24,649 - parsers.extractor - INFO - Extracting text from data\resumes\resume0.pdf
+2026-06-09 12:11:24,774 - parsers.extractor - INFO - Cleaning and normalizing extracted text.
+2026-06-09 12:11:24,784 - parsers.extractor - INFO - Saved cleaned text to data\processed\resume0_cleaned.txt
+2026-06-09 12:11:24,785 - parsers.extractor - INFO - Saved structured JSON to data\processed\resume0_structured.json
+2026-06-09 12:11:24,796 - parsers.extractor - INFO - Extracting text from data\resumes\resume1.pdf
+2026-06-09 12:11:26,391 - parsers.extractor - INFO - Cleaning and normalizing extracted text.
+2026-06-09 12:11:26,393 - parsers.extractor - INFO - Saved cleaned text to data\processed\resume1_cleaned.txt
+2026-06-09 12:11:26,394 - parsers.extractor - INFO - Saved structured JSON to data\processed\resume1_structured.json
+2026-06-09 12:11:26,404 - parsers.extractor - INFO - Extracting text from data\resumes\resume10.pdf
+2026-06-09 12:11:26,692 - parsers.extractor - INFO - Cleaning and normalizing extracted text.
+2026-06-09 12:11:26,703 - parsers.extractor - INFO - Saved cleaned text to data\processed\resume10_cleaned.txt
+2026-06-09 12:11:26,704 - parsers.extractor - INFO - Saved structured JSON to data\processed\resume10_structured.json
+2026-06-09 12:11:26,714 - parsers.extractor - INFO - Extracting text from data\resumes\resume2.pdf
+2026-06-09 12:11:26,809 - parsers.extractor - INFO - Cleaning and normalizing extracted text.
+2026-06-09 12:11:26,817 - parsers.extractor - INFO - Saved cleaned text to data\processed\resume2_cleaned.txt
+2026-06-09 12:11:26,818 - parsers.extractor - INFO - Saved structured JSON to data\processed\resume2_structured.json
+2026-06-09 12:11:26,827 - parsers.extractor - INFO - Extracting text from data\resumes\resume4.pdf
+2026-06-09 12:11:27,091 - parsers.extractor - INFO - Cleaning and normalizing extracted text.
+2026-06-09 12:11:27,096 - parsers.extractor - INFO - Saved cleaned text to data\processed\resume4_cleaned.txt
+2026-06-09 12:11:27,097 - parsers.extractor - INFO - Saved structured JSON to data\processed\resume4_structured.json
+2026-06-09 12:11:27,109 - parsers.extractor - INFO - Extracting text from data\resumes\resume5.pdf
+2026-06-09 12:11:27,324 - parsers.extractor - INFO - Cleaning and normalizing extracted text.
+2026-06-09 12:11:27,327 - parsers.extractor - INFO - Saved cleaned text to data\processed\resume5_cleaned.txt
+2026-06-09 12:11:27,328 - parsers.extractor - INFO - Saved structured JSON to data\processed\resume5_structured.json
+2026-06-09 12:11:27,336 - parsers.extractor - INFO - Extracting text from data\resumes\resume6.pdf
+2026-06-09 12:11:27,441 - parsers.extractor - INFO - Cleaning and normalizing extracted text.
+2026-06-09 12:11:27,453 - parsers.extractor - INFO - Saved cleaned text to data\processed\resume6_cleaned.txt
+2026-06-09 12:11:27,453 - parsers.extractor - INFO - Saved structured JSON to data\processed\resume6_structured.json
+2026-06-09 12:11:27,462 - parsers.extractor - INFO - Extracting text from data\resumes\resume7.pdf
+2026-06-09 12:11:27,674 - parsers.extractor - INFO - Cleaning and normalizing extracted text.
+2026-06-09 12:11:27,691 - parsers.extractor - INFO - Saved cleaned text to data\processed\resume7_cleaned.txt
+2026-06-09 12:11:27,692 - parsers.extractor - INFO - Saved structured JSON to data\processed\resume7_structured.json
+2026-06-09 12:11:27,695 - parsers.extractor - INFO - Extracting text from data\resumes\resume8.pdf
+2026-06-09 12:11:27,991 - parsers.extractor - INFO - Cleaning and normalizing extracted text.
+2026-06-09 12:11:27,995 - parsers.extractor - INFO - Saved cleaned text to data\processed\resume8_cleaned.txt
+2026-06-09 12:11:27,996 - parsers.extractor - INFO - Saved structured JSON to data\processed\resume8_structured.json
+2026-06-09 12:11:28,005 - parsers.extractor - INFO - Extracting text from data\resumes\resume9.pdf
+2026-06-09 12:11:28,354 - parsers.extractor - INFO - Cleaning and normalizing extracted text.
+2026-06-09 12:11:28,358 - parsers.extractor - INFO - Saved cleaned text to data\processed\resume9_cleaned.txt
+2026-06-09 12:11:28,362 - parsers.extractor - INFO - Saved structured JSON to data\processed\resume9_structured.json
+2026-06-09 12:11:28,371 - parsers.extractor - INFO - Extracting text from data\resumes\rsume3.pdf
+2026-06-09 12:11:28,573 - parsers.extractor - INFO - Cleaning and normalizing extracted text.
+2026-06-09 12:11:28,586 - parsers.extractor - INFO - Saved cleaned text to data\processed\rsume3_cleaned.txt
+2026-06-09 12:11:28,586 - parsers.extractor - INFO - Saved structured JSON to data\processed\rsume3_structured.json
+2026-06-09 12:11:28,596 - parsers.extractor - INFO - Extracting text from data\resumes\Swathi_V__Org_ (4).pdf
+2026-06-09 12:11:28,754 - parsers.extractor - INFO - Cleaning and normalizing extracted text.
+2026-06-09 12:11:28,771 - parsers.extractor - INFO - Saved cleaned text to data\processed\Swathi_V__Org_ (4)_cleaned.txt
+2026-06-09 12:11:28,771 - parsers.extractor - INFO - Saved structured JSON to data\processed\Swathi_V__Org_ (4)_structured.json
+2026-06-09 12:11:28,785 - extraction_pipeline - INFO - Pipeline finished. Success rate: 100.00%. Report saved to data\processed\extraction_report.json
+2026-06-09 12:15:44,448 - extraction_pipeline - INFO - Starting pipeline execution for 15 files.
+2026-06-09 12:15:44,454 - parsers.extractor - INFO - Extracting text from data\resumes\Adithyan s s.pdf
+2026-06-09 12:15:44,987 - parsers.extractor - INFO - Cleaning and normalizing extracted text.
+2026-06-09 12:15:44,992 - parsers.extractor - INFO - Saved cleaned text to data\processed\Adithyan s s_cleaned.txt
+2026-06-09 12:15:44,992 - parsers.extractor - INFO - Saved structured JSON to data\json\Adithyan s s_structured.json
+2026-06-09 12:15:45,019 - parsers.extractor - INFO - Extracting text from data\resumes\Jithin_J.pdf
+2026-06-09 12:15:45,287 - parsers.extractor - INFO - Cleaning and normalizing extracted text.
+2026-06-09 12:15:45,291 - parsers.extractor - INFO - Saved cleaned text to data\processed\Jithin_J_cleaned.txt
+2026-06-09 12:15:45,293 - parsers.extractor - INFO - Saved structured JSON to data\json\Jithin_J_structured.json
+2026-06-09 12:15:45,311 - parsers.extractor - INFO - Extracting text from data\resumes\Nihal Resume.pdf
+2026-06-09 12:15:45,851 - parsers.extractor - INFO - Cleaning and normalizing extracted text.
+2026-06-09 12:15:45,853 - parsers.extractor - INFO - Saved cleaned text to data\processed\Nihal Resume_cleaned.txt
+2026-06-09 12:15:45,855 - parsers.extractor - INFO - Saved structured JSON to data\json\Nihal Resume_structured.json
+2026-06-09 12:15:45,878 - parsers.extractor - INFO - Extracting text from data\resumes\resume0.pdf
+2026-06-09 12:15:46,045 - parsers.extractor - INFO - Cleaning and normalizing extracted text.
+2026-06-09 12:15:46,048 - parsers.extractor - INFO - Saved cleaned text to data\processed\resume0_cleaned.txt
+2026-06-09 12:15:46,049 - parsers.extractor - INFO - Saved structured JSON to data\json\resume0_structured.json
+2026-06-09 12:15:46,060 - parsers.extractor - INFO - Extracting text from data\resumes\resume1.pdf
+2026-06-09 12:15:47,653 - parsers.extractor - INFO - Cleaning and normalizing extracted text.
+2026-06-09 12:15:47,657 - parsers.extractor - INFO - Saved cleaned text to data\processed\resume1_cleaned.txt
+2026-06-09 12:15:47,658 - parsers.extractor - INFO - Saved structured JSON to data\json\resume1_structured.json
+2026-06-09 12:15:47,672 - parsers.extractor - INFO - Extracting text from data\resumes\resume10.pdf
+2026-06-09 12:15:47,973 - parsers.extractor - INFO - Cleaning and normalizing extracted text.
+2026-06-09 12:15:47,977 - parsers.extractor - INFO - Saved cleaned text to data\processed\resume10_cleaned.txt
+2026-06-09 12:15:47,979 - parsers.extractor - INFO - Saved structured JSON to data\json\resume10_structured.json
+2026-06-09 12:15:47,989 - parsers.extractor - INFO - Extracting text from data\resumes\resume2.pdf
+2026-06-09 12:15:48,090 - parsers.extractor - INFO - Cleaning and normalizing extracted text.
+2026-06-09 12:15:48,092 - parsers.extractor - INFO - Saved cleaned text to data\processed\resume2_cleaned.txt
+2026-06-09 12:15:48,094 - parsers.extractor - INFO - Saved structured JSON to data\json\resume2_structured.json
+2026-06-09 12:15:48,101 - parsers.extractor - INFO - Extracting text from data\resumes\resume4.pdf
+2026-06-09 12:15:48,357 - parsers.extractor - INFO - Cleaning and normalizing extracted text.
+2026-06-09 12:15:48,368 - parsers.extractor - INFO - Saved cleaned text to data\processed\resume4_cleaned.txt
+2026-06-09 12:15:48,369 - parsers.extractor - INFO - Saved structured JSON to data\json\resume4_structured.json
+2026-06-09 12:15:48,378 - parsers.extractor - INFO - Extracting text from data\resumes\resume5.pdf
+2026-06-09 12:15:48,590 - parsers.extractor - INFO - Cleaning and normalizing extracted text.
+2026-06-09 12:15:48,598 - parsers.extractor - INFO - Saved cleaned text to data\processed\resume5_cleaned.txt
+2026-06-09 12:15:48,602 - parsers.extractor - INFO - Saved structured JSON to data\json\resume5_structured.json
+2026-06-09 12:15:48,612 - parsers.extractor - INFO - Extracting text from data\resumes\resume6.pdf
+2026-06-09 12:15:48,723 - parsers.extractor - INFO - Cleaning and normalizing extracted text.
+2026-06-09 12:15:48,737 - parsers.extractor - INFO - Saved cleaned text to data\processed\resume6_cleaned.txt
+2026-06-09 12:15:48,741 - parsers.extractor - INFO - Saved structured JSON to data\json\resume6_structured.json
+2026-06-09 12:15:48,750 - parsers.extractor - INFO - Extracting text from data\resumes\resume7.pdf
+2026-06-09 12:15:48,973 - parsers.extractor - INFO - Cleaning and normalizing extracted text.
+2026-06-09 12:15:48,976 - parsers.extractor - INFO - Saved cleaned text to data\processed\resume7_cleaned.txt
+2026-06-09 12:15:48,978 - parsers.extractor - INFO - Saved structured JSON to data\json\resume7_structured.json
+2026-06-09 12:15:48,987 - parsers.extractor - INFO - Extracting text from data\resumes\resume8.pdf
+2026-06-09 12:15:49,292 - parsers.extractor - INFO - Cleaning and normalizing extracted text.
+2026-06-09 12:15:49,302 - parsers.extractor - INFO - Saved cleaned text to data\processed\resume8_cleaned.txt
+2026-06-09 12:15:49,302 - parsers.extractor - INFO - Saved structured JSON to data\json\resume8_structured.json
+2026-06-09 12:15:49,312 - parsers.extractor - INFO - Extracting text from data\resumes\resume9.pdf
+2026-06-09 12:15:49,657 - parsers.extractor - INFO - Cleaning and normalizing extracted text.
+2026-06-09 12:15:49,661 - parsers.extractor - INFO - Saved cleaned text to data\processed\resume9_cleaned.txt
+2026-06-09 12:15:49,662 - parsers.extractor - INFO - Saved structured JSON to data\json\resume9_structured.json
+2026-06-09 12:15:49,673 - parsers.extractor - INFO - Extracting text from data\resumes\rsume3.pdf
+2026-06-09 12:15:49,873 - parsers.extractor - INFO - Cleaning and normalizing extracted text.
+2026-06-09 12:15:49,890 - parsers.extractor - INFO - Saved cleaned text to data\processed\rsume3_cleaned.txt
+2026-06-09 12:15:49,891 - parsers.extractor - INFO - Saved structured JSON to data\json\rsume3_structured.json
+2026-06-09 12:15:49,901 - parsers.extractor - INFO - Extracting text from data\resumes\Swathi_V__Org_ (4).pdf
+2026-06-09 12:15:50,090 - parsers.extractor - INFO - Cleaning and normalizing extracted text.
+2026-06-09 12:15:50,093 - parsers.extractor - INFO - Saved cleaned text to data\processed\Swathi_V__Org_ (4)_cleaned.txt
+2026-06-09 12:15:50,095 - parsers.extractor - INFO - Saved structured JSON to data\json\Swathi_V__Org_ (4)_structured.json
+2026-06-09 12:15:50,106 - extraction_pipeline - INFO - Pipeline finished. Success rate: 100.00%. Report saved to data\json\extraction_report.json
+2026-06-09 12:16:13,983 - tests.test_extractor - INFO - Successfully started Resume Extraction Engine tests.

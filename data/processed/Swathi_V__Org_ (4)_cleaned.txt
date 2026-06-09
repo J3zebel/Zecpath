@@ -1,0 +1,60 @@
+Swathi V
++917034200217|swathiaparna0@gmail.com|linkedin.com/in/swathi-v|github.com/J3zebel
+
+SUMMARY
+Entry-levelDataScienceStudentandMachineLearningenthusiastwitharobustfoundationindeep
+Learning,dataanalytics. ExperiencedinarchitectingAI-poweredhealthcaresolutionsusingPython,
+CNNarchitectures,andSQLdatabases. Proficientinend-to-endMLworkflowsincludingdata
+Preprocessing,modeloptimization,anddeployment.
+
+SKILLS
+Languages: Python(Pandas,NumPy,Scikit-learn),SQL,C,C++,Flutter
+AI&DeepLearning: TensorFlow,Keras
+DataVisualization: PowerBI,Tableau,Matplotlib,Seaborn,AdvancedExcel
+Backend&Tools: Django,RESTAPI,Git,GitHub,Supabase,MySQL,PostgreSQL
+
+PROJECTS
+Multi-ModalMedicalImagingDiagnosisSystem 2026–Present
+DeepLearning&ComputerVision Python,TensorFlow,Django,MySQL
+EngineeredCNN-basedmodelsforautomatedX-ray,MRI,andskinlesionclassificationusingtransfer
+Learning.
+IntegratedGrad-CAM(ExplainableAI)togenerateheatmapsforenhancedclinicaldecisionsupport.
+DeployedmodelinferenceviaaDjangobackend,utilizingMySQLforsecurepatientdatamanagement.
+CivicProblem-SolvingPlatform 2024
+Full-StackWeb&MobileDevelopment Python,Django,Supabase,Flutter
+Developedacomplaintmanagementsystemhandling500+recordswithautomateddatastorageand
+Visualization. Generatedanalyticalreportsonservicetrendsandresolutionperformance.
+OnlineTicketBookingSystem 2023
+DatabaseManagementSystems MySQL,PHP,JavaScript
+Builtaninteractivebookingsystemwithstructureddatabasequeriesandanalyticalmodulesformonitoring
+Bookingvolumeanduserbehavior.
+
+WORK EXPERIENCE
+SoftwareDevelopmentIntern Dec2024–Apr2025
+ProgressiveEducations Kerala,India
+DesignedandimplementedaFlutterappandPythonDjangowebplatform,enablingover1,000usersto
+Submitandtrackcivicrequests.
+Automateddatacollectionandloggingprocesses,facilitatinganalysisof500+submissionsfortrend
+Identificationandperformancemetrics.
+Reducedresponsetimeby30%byoptimizingdataflowandintegratingreal-timedashboardsforstatus
+Tracking.
+UtilizedSQLandPythonfordataextraction,transformation,andvisualizationtosupportdecision-making.
+
+EDUCATION
+SCOPEINDIA 2025–Present
+DataScience Thiruvananthapuram
+DCSMAT,MGUniversity 2022–2025
+BachelorofComputerApplications(BCA) Kottayam
+GHSSNeduveli 2020–2022
+HigherSecondaryEducation(91%) Thiruvananthapuram
+
+CERTIFICATIONS
+MicrosoftExcelExpertCertification(AdvancedDataAnalysis)
+UI/UXDesignWorkshop–ZoopleTechnologies
+StudentDelegate–KeralaLiteratureFestival(2023)
+
+AWARDS
+SecretaryoftheITClub,organizingdiversetecheventsforthecampuscommunity
+MemberofAnti-RaggingCommittee
+MemberofIEDCCommittee
+MemberofHospitalitycommitteeinLuminance(CollegeFest)

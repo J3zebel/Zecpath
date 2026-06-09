@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "filename": "resume7.pdf",
+    "filepath": "E:\\zecpath\\data\\resumes\\resume7.pdf",
+    "file_size_bytes": 45731,
+    "format": ".pdf",
+    "word_count": 218,
+    "char_count": 1512,
+    "extracted_at": "2026-06-09T06:45:48.975247Z"
+  },
+  "sections": {
+    "HEADER": "ELEANOR FITZGERALD\nSENIOR DATA ANALYST\nHello@reallygreatsite.com\n123 Anywhere St., Any City\n+123-456-7890",
+    "SUMMARY": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent molestie orci ac nulla\nDapibus, eget suscipit felis porta. Suspendisse fringilla et libero nec commodo. In hac habitasse\nPlatea dictumst. Ut dictum faucibus urna id varius. Fusce ac felis ut diam elementum\nBibendum ac eu arcu. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per\nInceptos himenaeos.",
+    "WORK EXPERIENCE": "INGOUDE COMPANY - ANY CITY (January 2018 - present)\nSenior Data Analyst\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nPraesent molestie orci ac nulla dapibus, eget suscipit felis porta.\nSuspendisse fringilla et libero nec commodo. In hac habitasse platea dictumst.\nTHYNK UNLIMITED - ANY CITY (January 2016 - January 2018)\nJunior Data Analyst\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nPraesent molestie orci ac nulla dapibus, eget suscipit felis porta.\nSuspendisse fringilla et libero nec commodo. In hac habitasse platea dictumst.",
+    "EDUCATION": "ARROWAI UNIVERSITY (2013 - 2015) GPA 3.9\nBachelor of Statistics\nSERTIFICATION\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nPraesent molestie orci ac nulla dapibus, eget suscipit felis porta.\nSuspendisse fringilla et libero nec commodo. In hac habitasse platea dictumst.",
+    "SKILLS": "Operating Software Good communication skill\nStructured Query Language (SQL) Able to work in a team\nStatistics Great problem solving skill"
+  },
+  "raw_cleaned_text": "ELEANOR FITZGERALD\nSENIOR DATA ANALYST\nHello@reallygreatsite.com\n123 Anywhere St., Any City\n+123-456-7890\n\nSUMMARY\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent molestie orci ac nulla\nDapibus, eget suscipit felis porta. Suspendisse fringilla et libero nec commodo. In hac habitasse\nPlatea dictumst. Ut dictum faucibus urna id varius. Fusce ac felis ut diam elementum\nBibendum ac eu arcu. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per\nInceptos himenaeos.\n\nWORK EXPERIENCE\nINGOUDE COMPANY - ANY CITY (January 2018 - present)\nSenior Data Analyst\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nPraesent molestie orci ac nulla dapibus, eget suscipit felis porta.\nSuspendisse fringilla et libero nec commodo. In hac habitasse platea dictumst.\nTHYNK UNLIMITED - ANY CITY (January 2016 - January 2018)\nJunior Data Analyst\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nPraesent molestie orci ac nulla dapibus, eget suscipit felis porta.\nSuspendisse fringilla et libero nec commodo. In hac habitasse platea dictumst.\n\nEDUCATION\nARROWAI UNIVERSITY (2013 - 2015) GPA 3.9\nBachelor of Statistics\nSERTIFICATION\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nPraesent molestie orci ac nulla dapibus, eget suscipit felis porta.\nSuspendisse fringilla et libero nec commodo. In hac habitasse platea dictumst.\n\nSKILLS\nOperating Software Good communication skill\nStructured Query Language (SQL) Able to work in a team\nStatistics Great problem solving skill"
+}

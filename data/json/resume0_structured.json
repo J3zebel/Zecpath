@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "filename": "resume0.pdf",
+    "filepath": "E:\\zecpath\\data\\resumes\\resume0.pdf",
+    "file_size_bytes": 81466,
+    "format": ".pdf",
+    "word_count": 68,
+    "char_count": 1862,
+    "extracted_at": "2026-06-09T06:45:46.047301Z"
+  },
+  "sections": {
+    "HEADER": "Alex Webb\n555-123-4567|alex@email.com|linkedin.com/in/alexwebbx|github.com/alexwebbx",
+    "SUMMARY": "PassionateAI/MLengineerwithastrongbackgroundindeeplearning,computervision,andnaturallanguageprocessing.\nSkilledinPython,TensorFlow,PyTorch,andvariousMLlibraries.Excellentproblem-solving,research,andcollaboration\nAbilities.Seekingachallengingroletodevelopcutting-edgeAIsolutions.",
+    "SKILLS": "ProgrammingLanguages:Python,C++,SQL,MATLAB\nDeepLearningFrameworks:TensorFlow,PyTorch,Keras,Caffe\nLibraries&Tools:NumPy,Pandas,Scikit-learn,OpenCV,NLTK,Git,Docker",
+    "PROJECTS": "ImageCaptioningSystem Jan2023–Present\nDeepLearningProject Python,TensorFlow,OpenCV\n- Developedanend-to-endsystemforgeneratingdescriptivecaptionsforimages\n- UtilizedCNNandLSTMmodelsforimagefeatureextractionandcaptiongeneration\n- Achievedstate-of-the-artperformanceontheCOCOdataset\nSentimentAnalysisAPI Aug2022–Dec2022\nNaturalLanguageProcessing Python,Flask,NLTK,HuggingFace\n- BuiltaRESTfulAPIforsentimentanalysisoftextdata\n- Implementedpre-trainedtransformermodelsusingHuggingFace\n- DeployedtheAPIonacloudplatformforeasyintegration",
+    "WORK EXPERIENCE": "AIResearchIntern June2022–Aug2022\nDeepMind London,UK\n- Conductedresearchonreinforcementlearningalgorithmsforrobotics\n- ImplementedandevaluateddeepRLmodelsusingPyTorchandRLlib\n- Presentedfindingsatweeklyresearchmeetings\nMachineLearningEngineer Jan2021–May2022\nAcmeAISolutions SanFrancisco,CA\n- Developedanddeployedmachinelearningmodelsforvariousindustries\n- Optimizedmodelperformanceandensureddataquality\n- Collaboratedwithcross-functionalteamstodeliverAIsolutions",
+    "EDUCATION": "StanfordUniversity Stanford,CA\nM.S.inComputerScience,ArtificialIntelligence Aug2019–May2021\nUniversityofCalifornia,Berkeley Berkeley,CA\nB.S.inElectricalEngineeringandComputerScience Aug2015–May2019",
+    "CERTIFICATIONS": "- AWSCertifiedMachineLearning-Specialty\n- TensorFlowDeveloperCertificate"
+  },
+  "raw_cleaned_text": "Alex Webb\n555-123-4567|alex@email.com|linkedin.com/in/alexwebbx|github.com/alexwebbx\n\nSUMMARY\nPassionateAI/MLengineerwithastrongbackgroundindeeplearning,computervision,andnaturallanguageprocessing.\nSkilledinPython,TensorFlow,PyTorch,andvariousMLlibraries.Excellentproblem-solving,research,andcollaboration\nAbilities.Seekingachallengingroletodevelopcutting-edgeAIsolutions.\n\nSKILLS\nProgrammingLanguages:Python,C++,SQL,MATLAB\nDeepLearningFrameworks:TensorFlow,PyTorch,Keras,Caffe\nLibraries&Tools:NumPy,Pandas,Scikit-learn,OpenCV,NLTK,Git,Docker\n\nPROJECTS\nImageCaptioningSystem Jan2023–Present\nDeepLearningProject Python,TensorFlow,OpenCV\n- Developedanend-to-endsystemforgeneratingdescriptivecaptionsforimages\n- UtilizedCNNandLSTMmodelsforimagefeatureextractionandcaptiongeneration\n- Achievedstate-of-the-artperformanceontheCOCOdataset\nSentimentAnalysisAPI Aug2022–Dec2022\nNaturalLanguageProcessing Python,Flask,NLTK,HuggingFace\n- BuiltaRESTfulAPIforsentimentanalysisoftextdata\n- Implementedpre-trainedtransformermodelsusingHuggingFace\n- DeployedtheAPIonacloudplatformforeasyintegration\n\nWORK EXPERIENCE\nAIResearchIntern June2022–Aug2022\nDeepMind London,UK\n- Conductedresearchonreinforcementlearningalgorithmsforrobotics\n- ImplementedandevaluateddeepRLmodelsusingPyTorchandRLlib\n- Presentedfindingsatweeklyresearchmeetings\nMachineLearningEngineer Jan2021–May2022\nAcmeAISolutions SanFrancisco,CA\n- Developedanddeployedmachinelearningmodelsforvariousindustries\n- Optimizedmodelperformanceandensureddataquality\n- Collaboratedwithcross-functionalteamstodeliverAIsolutions\n\nEDUCATION\nStanfordUniversity Stanford,CA\nM.S.inComputerScience,ArtificialIntelligence Aug2019–May2021\nUniversityofCalifornia,Berkeley Berkeley,CA\nB.S.inElectricalEngineeringandComputerScience Aug2015–May2019\n\nCERTIFICATIONS\n- AWSCertifiedMachineLearning-Specialty\n- TensorFlowDeveloperCertificate"
+}
